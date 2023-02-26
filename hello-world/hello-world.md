@@ -196,7 +196,7 @@ The fields in the square brackets are optional. A basic instruction has two part
 
 The following assembly language code displays the 'Hello World' string on the screen.
 
-```{assembly .numberLines}
+```{.lineNo}
 section	.text
    global _start		;must be declared for linker (ld)
    				;global is used to export the _start label. 
