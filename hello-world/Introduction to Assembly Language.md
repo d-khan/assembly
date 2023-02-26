@@ -126,7 +126,7 @@ We will use the NASM (Netwide Assemble) assembler as it is −
 - Well documented, and you will get lots of information on the net.
 - It could be used on Linux, Windows, and OSX.
 
-> __Alternatively, you can use an online NASM assembler if you do not have an Intel processor or a laptop. There are several online NASM assemblers that you can use, such as [online NASM assemblers](https://www.jdoodle.com/compile-assembler-nasm-online/). However, I am in the process of testing these compilers.__
+> __Alternatively, you can use an online NASM assembler if you do not have an Intel processor or a laptop. There are several online NASM assemblers that you can use, such as online [NASM assemblers available](https://www.jdoodle.com/compile-assembler-nasm-online/). However, I am in the process of testing these compilers.__
 
 ## Basic Syntax
 
@@ -231,7 +231,7 @@ len equ $ - msg     ;length of the string
 
 ## Compiling and Linking an Assembly Program in NASM
 
-> __This section applies to students using NASM assemblers on an Intel-based processor and assembling code from scratch. If you are using an online NASM assembler, please skip this step.___
+> __This section applies to students using NASM assemblers on an Intel-based processor and assembling code from scratch. If you are using an online NASM assembler, please skip this step.__
 
 Ensure you have set the path of nasm and ld binaries in your PATH environment variable. Now, take the following steps for compiling and linking the above program −
 
@@ -272,7 +272,7 @@ Some of these data registers have a specific use in arithmetical operations.
 
 **BX is the base register**, which could be used in indexed addressing.
 
-**CX is known as the count register; as the ECX, CX registers to store the loop count in iterative operations.
+**CX is known as the count register**, as the ECX, CX registers to store the loop count in iterative operations.
 
 **DX is known as the data register**. It is also used in input/output operations. It is also used with AX register and DX for multiply and divide operations involving large values.
 
