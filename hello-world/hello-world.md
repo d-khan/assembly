@@ -199,8 +199,8 @@ The following assembly language code displays the 'Hello World' string on the sc
 ```{assembly .numberLines}
 section	.text
    global _start		;must be declared for linker (ld)
-   									;global is used to export the _start label. 
-   									;This will be the entry point to the program. 
+   				;global is used to export the _start label. 
+   				;This will be the entry point to the program. 
 	
 _start:	            ;tells linker entry point
    mov	eax,4       ;system call number (sys_write)
@@ -214,15 +214,15 @@ _start:	            ;tells linker entry point
 
 section	.data
 msg db 'Hello, world!', 0xa  	;string to be printed
-															;Declare a label "msg" which has 
-                              ;our string we want to print. 
-                              ;for reference: 0xa = "\n" (line feed) 
-                              ;db = define byte
-len equ $ - msg     ;length of the string
-										;len" will calculate the current 
-										;offset minus the "msg" offset. 
-										;this should give us the size of "msg".
-                    ;len equals current offset - msg
+				;Declare a label "msg" which has 
+                              	;our string we want to print. 
+                              	;for reference: 0xa = "\n" (line feed) 
+                              	;db = define byte
+len equ $ - msg     	;length of the string
+			;len" will calculate the current 
+			;offset minus the "msg" offset. 
+			;this should give us the size of "msg".
+                    	;len equals current offset - msg
 ```
 
 ## Compiling and Linking an Assembly Program in NASM
