@@ -113,3 +113,5 @@ exit:
    int 0x80
 ```
 
+> **segment .bss** An assembly language code that contains statically allocated variables that are declared but have not been assigned a value yet. It is often referred to as the "bss section" or "bss segment".
+
