@@ -162,6 +162,26 @@ The following figure shows the **x86 Registers**.
 
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/11669149/223949886-b2796233-aa52-4656-986d-0d0e77f32cba.png">
 
+## The DIV/IDIV instruction
+The division operation generates two elements - a quotient and a remainder. In case of multiplication, overflow does not occur because double-length registers are used to keep the product. However, in case of division, overflow may occur. The processor generates an interrupt if overflow occurs.
+
+The DIV (Divide) instruction is used for unsigned data and the IDIV (Integer Divide) is used for signed data.
+
+The following example divides 8 with 2. The dividend 8 is stored in the 16-bit AX register and the divisor 2 is stored in the 8-bit BL register.
+
+``` assembly
+section .text
+	global _start
+
+_start:
+	mov ax,8
+	mov bl,2
+	div bl
+	
+	mov eax,1
+	int 0x80
+```
+
 
 <img width="795" alt="image" src="https://user-images.githubusercontent.com/11669149/223955017-7736aa43-8407-47ac-84de-cfcfb0df7fe6.png">
 
