@@ -163,4 +163,6 @@ The following figure shows the **x86 Registers**.
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/11669149/223949886-b2796233-aa52-4656-986d-0d0e77f32cba.png">
 
 
+<img width="795" alt="image" src="https://user-images.githubusercontent.com/11669149/223955017-7736aa43-8407-47ac-84de-cfcfb0df7fe6.png">
+
 
