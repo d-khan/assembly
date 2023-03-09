@@ -160,6 +160,7 @@ _start:
 
 The following figure shows the **x86 Registers**.
 
-![image-20230308225733906](/Users/danish/Library/Application%20Support/typora-user-images/image-20230308225733906.png)
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/11669149/223949886-b2796233-aa52-4656-986d-0d0e77f32cba.png">
+
 
 
