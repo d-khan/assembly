@@ -127,10 +127,11 @@ exit:
 ## The MUL/IMUL instruction
 There are two instructions for multiplying binary data. The MUL (Multiply) instruction handles unsigned data and the IMUL (Integer Multiply) handles signed data. Both instructions affect the Carry and Overflow flag.
 
-> **Multiplicand in both cases will be in an accumulator, depending upon the size of the multiplicand and the multiplier and the generated product is also stored in two registers depending upon the size of the operands.**
+> **Depending upon the size of the multiplicand and the multiplier and the generated product, the product is either stored in one register or stored in two registers depending upon the size of the operands.**
 
 ### Multiplication scenarios
 #### When two bytes are multiplied
+The multiplicand is in the AL register, and the multiplier is a byte in the memory or in another register. The product is in AX. 
 
 
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/11669149/223907405-4e765993-af50-469f-a77b-88b995a6f05d.png">
