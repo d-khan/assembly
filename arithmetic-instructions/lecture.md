@@ -22,6 +22,15 @@ _start:
 ## The ADD and SUB Instructions
 The ADD and SUB instructions are used for performing simple addition/subtraction of binary data in byte, word and doubleword size, i.e., for adding or subtracting 8-bit, 16-bit or 32-bit operands, respectively.
 
+The ADD/SUB instruction can take place between
+- Register to register
+- Memory to register
+- Register to memory
+- Register to constant data
+- Memory to constant data
+
+However, like other instructions, memory-to-memory operations are not possible using ADD/SUB instructions. An ADD or SUB operation sets or clears the overflow and carry flags.
+
 The following example will ask two digits from the user, store the digits in the EAX and EBX register, respectively, add the values, store the result in a memory location 'res' and finally display the result.
 
 ``` assembly
@@ -115,5 +124,9 @@ exit:
 
 > **segment .bss** An assembly language code that contains statically allocated variables that are declared but have not been assigned a value yet. It is often referred to as the "bss section" or "bss segment".
 
+Multiplicand in both cases will be in an accumulator, depending upon the size of the multiplicand and the multiplier and the generated product is also stored in two registers depending upon the size of the operands. Following section explains MUL instructions with three different cases −
+
+
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/11669149/223907405-4e765993-af50-469f-a77b-88b995a6f05d.png">
+
 
