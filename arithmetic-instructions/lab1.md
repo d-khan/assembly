@@ -8,7 +8,7 @@ Review the "Arithmetic Instructions" lecture before attending the lab.
 
 ## Task
 Solve the following equations.
-a. var4 = (var1 + var2) * var3
+a. $var4 = (var1 + var2) * var3$
 b. 
 
 
