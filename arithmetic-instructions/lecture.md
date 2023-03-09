@@ -182,6 +182,11 @@ _start:
 	int 0x80
 ```
 
+When the divisor is 1 byte −
+
+The dividend is assumed to be in the AX register (16 bits). After division, the quotient goes to the AL register and the remainder goes to the AH register.
+
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/11669149/223963271-09306344-30f1-4859-bbb0-e7c76e71a8b6.png">
 
 <img width="795" alt="image" src="https://user-images.githubusercontent.com/11669149/223955017-7736aa43-8407-47ac-84de-cfcfb0df7fe6.png">
 
