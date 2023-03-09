@@ -136,7 +136,7 @@ There are two instructions for multiplying binary data. The MUL (Multiply) instr
 
 > **Depending upon the size of the multiplicand, the multiplier, and the generated product, the product is either stored in one register or two registers depending upon the size of the operands.**
 
-When two bytes are multiplied, the multiplicand is in the AL register, and the multiplier is a byte in the memory or another register. The product is in the eax register, as shown in the debugger's output. However, this is not a restriction, and any size of the register can be used for operands. For efficiency purposes, I used AL and DL registers. The distinction between registers is shown in the figure below.
+**When two bytes are multiplied, the multiplicand is in the AL register, and the multiplier is a byte in the memory or another register.** The product is in the eax register, as shown in the debugger's output. However, this is not a restriction, and any size of the register can be used for operands. For efficiency purposes, I used AL and DL registers. The distinction between registers is shown in the figure below.
 
 ````assembly
 section .text
