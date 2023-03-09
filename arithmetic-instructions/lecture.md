@@ -3,6 +3,7 @@
 Let's explore some arithmetic instructions.
 
 ## The INC/DEC instruction
+
 The INC instruction is used for incrementing an operand by one. It works on a single operand that can be either in a register or in memory. The DEC instruction is used for decrementing an operand by one.
 
 ``` assembly
@@ -23,9 +24,11 @@ The above code is dissected using the `gdb` application. See the value of the ea
 
 
 ## The ADD and SUB Instructions
+
 The ADD and SUB instructions are used for performing simple addition/subtraction of binary data in byte, word, and doubleword size, i.e., for adding or subtracting 8-bit, 16-bit, or 32-bit operands, respectively.
 
 The ADD/SUB instruction can take place between
+
 - Register to register
 - Memory to register
 - Register to memory
@@ -128,6 +131,7 @@ exit:
 > **segment .bss** An assembly language code that contains statically allocated variables that are declared but have not been assigned a value yet. It is often called the "bss section" or "bss segment".
 
 ## The MUL/IMUL instruction
+
 There are two instructions for multiplying binary data. The MUL (Multiply) instruction handles unsigned data and the IMUL (Integer Multiply) handles signed data. Both instructions affect the Carry and Overflow flag.
 
 > **Depending upon the size of the multiplicand, the multiplier, and the generated product, the product is either stored in one register or two registers depending upon the size of the operands.**
@@ -157,5 +161,4 @@ _start:
 The following figure shows the **x86 Registers**.
 
 ![image-20230308225733906](/Users/danish/Library/Application%20Support/typora-user-images/image-20230308225733906.png)
-
 
