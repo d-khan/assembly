@@ -155,6 +155,8 @@ The division operation generates two elements - a quotient and a remainder. In m
 
 The DIV (Divide) instruction is used for unsigned data, and the IDIV (Integer Divide) is used for signed data.
 
+### Example code
+
 The following example divides 8 with 2. Therefore, dividend 8 is stored in the 16-bit AX register, and divisor 2 is stored in the 8-bit BL register.
 
 ```{assembly .numberLines}
@@ -177,8 +179,6 @@ __When the divisor is 1 byte −__The dividend is assumed to be in the AX regist
 **When the divisor is 1 word −** The dividend is assumed to be 32 bits long and in the DX:AX registers. The high-order 16 bits are in DX and the low-order 16 bits are in AX. After division, the 16-bit quotient goes to the AX register and the 16-bit remainder goes to the DX register.
 
 **When the divisor is doubleword −**The dividend is assumed to be 64 bits long and in the EDX:EAX registers. The high-order 32 bits are in EDX and the low-order 32 bits are in EAX. After division, the 32-bit quotient goes to the EAX register and the 32-bit remainder goes to the EDX register.
-
-### Example code
 
 The following debugged code shows the process of division (8/2); the AL register (quotient) value is 4, and the AH register (remainder) is 0.
 
