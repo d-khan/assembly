@@ -1,7 +1,5 @@
 
 
-[TOC]
-
 # Activity - Arithmetic instructions
 
 ## Objective
