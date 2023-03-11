@@ -2,6 +2,11 @@
 
 Let's explore some arithmetic instructions.
 
+## Pre-requisite
+
+- Knowledge of how to run assembly code using nasm assembler in Linux OS. (see video)
+- Knowledge of how to debug an assembly code using `gdb`. (see video)
+
 ## The INC/DEC instruction
 
 The INC instruction is used for incrementing an operand by one. It works on a single operand that can be either in a register or in memory. The DEC instruction is used for decrementing an operand by one.
@@ -23,6 +28,7 @@ The above code is dissected using the `gdb` application. See the value of the ea
 <img width="1003" alt="image" src="https://user-images.githubusercontent.com/11669149/223891859-55ce3503-c862-4b08-ad99-7944fea82d4c.png">
 
 
+
 ## The ADD and SUB Instructions
 
 The ADD and SUB instructions are used for performing simple addition/subtraction of binary data in byte, word, and doubleword size, i.e., for adding or subtracting 8-bit, 16-bit, or 32-bit operands, respectively.
@@ -35,100 +41,31 @@ The ADD/SUB instruction can take place between
 - Register to constant data
 - Memory to constant data
 
-However, like other instructions, memory-to-memory operations are not possible using ADD/SUB instructions. An ADD or SUB operation sets or clears the overflow and carry flags.
+However, like other instructions, memory-to-memory operations are not possible using ADD/SUB instructions. An ADD or SUB operation sets or clears the overflow and carries flags.
 
-The following example will ask for two digits from the user, store the digits in the EAX and EBX register, add the values, store the result in a memory location 'res', and finally display the result.
+### Example code
 
-``` assembly
-SYS_EXIT  equ 1
-SYS_READ  equ 3
-SYS_WRITE equ 4
-STDIN     equ 0
-STDOUT    equ 1
+The following example adds two numbers, stores the digits in the EAX and EBX register, adds the values, and stores the result in a memory location, 'result'.
 
-segment .data 
+```{assembly .numberLines}
+section .text
+		global _start
 
-   msg1 db "Enter a digit ", 0xA,0xD 
-   len1 equ $- msg1 
-
-   msg2 db "Please enter a second digit", 0xA,0xD 
-   len2 equ $- msg2 
-
-   msg3 db "The sum is: "
-   len3 equ $- msg3
+_start:
+		mov eax,10
+		mov ebx,20
+		add eax,ebx
+		mov [result],eax
+		
+		mov eax,1
+		int 0x80
 
 segment .bss
-
-   num1 resb 2 
-   num2 resb 2 
-   res resb 1    
-
-section	.text
-   global _start    ;must be declared for using gcc
-	
-_start:             ;tell linker entry point
-   mov eax, SYS_WRITE         
-   mov ebx, STDOUT         
-   mov ecx, msg1         
-   mov edx, len1 
-   int 0x80                
-
-   mov eax, SYS_READ 
-   mov ebx, STDIN  
-   mov ecx, num1 
-   mov edx, 2
-   int 0x80            
-
-   mov eax, SYS_WRITE        
-   mov ebx, STDOUT         
-   mov ecx, msg2          
-   mov edx, len2         
-   int 0x80
-
-   mov eax, SYS_READ  
-   mov ebx, STDIN  
-   mov ecx, num2 
-   mov edx, 2
-   int 0x80        
-
-   mov eax, SYS_WRITE         
-   mov ebx, STDOUT         
-   mov ecx, msg3          
-   mov edx, len3         
-   int 0x80
-
-   ; moving the first number to eax register and second number to ebx
-   ; and subtracting ascii '0' to convert it into a decimal number
-	
-   mov eax, [num1]
-   sub eax, '0'
-	
-   mov ebx, [num2]
-   sub ebx, '0'
-
-   ; add eax and ebx
-   add eax, ebx
-   ; add '0' to convert the sum from decimal to ASCII
-   add eax, '0'
-
-   ; storing the sum in memory location res
-   mov [res], eax
-
-   ; print the sum 
-   mov eax, SYS_WRITE        
-   mov ebx, STDOUT
-   mov ecx, res         
-   mov edx, 1        
-   int 0x80
-
-exit:    
-   
-   mov eax, SYS_EXIT   
-   xor ebx, ebx 
-   int 0x80
+		result resb 1
 ```
+The following is the analysis of the assembly code.
 
-> **segment .bss** An assembly language code that contains statically allocated variables that are declared but have not been assigned a value yet. It is often called the "bss section" or "bss segment".
+> **segment .bss** An assembly language code that contains statically allocated variables that are declared but have not been assigned a value yet. It is often called the "bss section" or "bss segment". 
 
 ## The MUL/IMUL instruction
 
@@ -136,9 +73,17 @@ There are two instructions for multiplying binary data. The MUL (Multiply) instr
 
 > **Depending upon the size of the multiplicand, the multiplier, and the generated product, the product is either stored in one register or two registers depending upon the size of the operands.**
 
-**When two bytes are multiplied, the multiplicand is in the AL register, and the multiplier is a byte in the memory or another register.** The product is in the eax register, as shown in the debugger's output. However, this is not a restriction, and any size of the register can be used for operands. For efficiency purposes, I used AL and DL registers. The distinction between registers is shown in the figure below.
+**When two bytes are multiplied, the multiplicand is in the AL register, and the multiplier is a byte in the memory or another register. Finally, the product is in the eax register, as shown in the debugger's output.** 
 
-````assembly
+**When two one-word values are multiplied −** The multiplicand should be in the AX register, and the multiplier is a word in memory or another register. For example, you must store the multiplier in DX and the multiplicand in AX for an instruction like MUL DX. The resultant product is a doubleword, which will need two registers. The high-order (leftmost) portion gets stored in DX and the lower-order (rightmost) portion gets stored in AX.
+
+**When two doubleword values are multiplied −**When two doubleword values are multiplied, the multiplicand should be in EAX, and the multiplier is a doubleword value stored in memory or in another register. The product generated is stored in the EDX:EAX registers, i.e., the high order 32 bits get stored in the EDX register, and the low-order 32-bits are stored in the EAX register.
+
+### Example code 1
+
+The following code multiplies two numbers. The result is saved in the eax register.
+
+```{assembly .numberLines}
 section .text
 		global _start
 		
@@ -150,9 +95,6 @@ _start:
 		mov eax,1
 		int 0x80
 ```
-````
-
-
 
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/11669149/223907405-4e765993-af50-469f-a77b-88b995a6f05d.png">
 
@@ -162,34 +104,86 @@ The following figure shows the **x86 Registers**.
 
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/11669149/223949886-b2796233-aa52-4656-986d-0d0e77f32cba.png">
 
-## The DIV/IDIV instruction
-The division operation generates two elements - a quotient and a remainder. In case of multiplication, overflow does not occur because double-length registers are used to keep the product. However, in case of division, overflow may occur. The processor generates an interrupt if overflow occurs.
+### Example code 2
 
-The DIV (Divide) instruction is used for unsigned data and the IDIV (Integer Divide) is used for signed data.
+The following code solves the equation $\ref{ref1}$, where $var1$, $var2$ and $var3$ are initialized variables, whereas $var4$ is an un-initialized variable. The output will be saved in $var4$ with a value of 21.
+$$
+var4 = (var1 + var2) * var3\label{ref1}
+$$
 
-The following example divides 8 with 2. The dividend 8 is stored in the 16-bit AX register and the divisor 2 is stored in the 8-bit BL register.
 
-``` assembly
+```{assembly .numberLines}
 section .text
-	global _start
+		global _start
 
 _start:
-	mov ax,8
-	mov bl,2
-	div bl
-	
-	mov eax,1
-	int 0x80
+		mov eax,[var1]
+		add ebx,[var2]
+		mov dl,[var3]
+		mul dl
+		mov [var4],eax
+		
+		mov eax,1
+		int 0x80
+
+section .data
+		var1 DD 5 ; var1 is assigned 5
+		var2 DD 2 ; var2 is assigned 2
+		var3 DD 3 ; var3 is assigned 3
+		
+segment .bss
+		var4 resb 1
 ```
 
-When the divisor is 1 byte −
+The following figure shows the value stored in $var4$, along with the register details. The `gdp` parameters are set accordingly to achieve the desired output. Before gdp, ensure the filename is assembled using a nasm assembler and must be error-free. Replace {filename} with the actual filename.
 
-The dividend is assumed to be in the AX register (16 bits). After division, the quotient goes to the AL register and the remainder goes to the AH register.
+```
+gdp {filename}
+layout asm
+layout regs
+watch (int) var4
+break _start
+run
+stepi {to move to the next instruction}
+```
+
+<img width="1130" alt="image" src="https://user-images.githubusercontent.com/11669149/224255090-a0559889-2d55-4819-8d4d-81d7087dc68d.png">
+
+## The DIV/IDIV instruction
+
+The division operation generates two elements - a quotient and a remainder. In multiplication, overflow does not occur because double-length registers are used to keep the product. However, in the case of division, overflow may occur. The processor generates an interrupt if overflow occurs.
+
+The DIV (Divide) instruction is used for unsigned data, and the IDIV (Integer Divide) is used for signed data.
+
+The following example divides 8 with 2. Therefore, dividend 8 is stored in the 16-bit AX register, and divisor 2 is stored in the 8-bit BL register.
+
+```{assembly .numberLines}
+section .text
+		global _start
+
+_start:
+		mov ax,8
+		mov bl,2
+		div bl
+	
+		mov eax,1
+		int 0x80
+```
+
+__When the divisor is 1 byte −__The dividend is assumed to be in the AX register (16 bits). After division, the quotient goes to the AL register, and the remainder goes to the AH register.
 
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/11669149/223963271-09306344-30f1-4859-bbb0-e7c76e71a8b6.png">
 
-The following debugged code shows the process of division (8/2), the AL register (quotient) value is 4 and the AH register (remainder) is 0.
+**When the divisor is 1 word −** The dividend is assumed to be 32 bits long and in the DX:AX registers. The high-order 16 bits are in DX and the low-order 16 bits are in AX. After division, the 16-bit quotient goes to the AX register and the 16-bit remainder goes to the DX register.
+
+**When the divisor is doubleword −**The dividend is assumed to be 64 bits long and in the EDX:EAX registers. The high-order 32 bits are in EDX and the low-order 32 bits are in EAX. After division, the 32-bit quotient goes to the EAX register and the 32-bit remainder goes to the EDX register.
+
+### Example code
+
+The following debugged code shows the process of division (8/2); the AL register (quotient) value is 4, and the AH register (remainder) is 0.
 
 <img width="795" alt="image" src="https://user-images.githubusercontent.com/11669149/223955017-7736aa43-8407-47ac-84de-cfcfb0df7fe6.png">
 
+------
 
+Last updated: Mar 2023
