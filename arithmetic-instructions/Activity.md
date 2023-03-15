@@ -29,7 +29,7 @@ I recommend using the following debugging parameters to display results. See the
 ```
 layout asm
 layout regs
-watch (int) var4
+watch (int) result
 break _start
 run
 stepi
