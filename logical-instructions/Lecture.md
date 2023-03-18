@@ -31,7 +31,7 @@ _start:
         and eax,1
         jz evnn                 ;jump to evnn block when 0
                                 ;if jump not 0, then continue
-        mov eax,'n      '       
+        mov eax,'n'       
         mov [result],eax        ;this will print 'n', ascii 110
         mov eax,1
         int 0x80
