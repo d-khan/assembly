@@ -9,7 +9,7 @@ Learn to perform loops and arrays instructions in Assembly Language.
 ## Prerequisites
 
 - Before doing the lab, please review the lecture.
-- This lab will only work correctly if you run the code in an online assembler due to the lack of debugging features.
+- This lab will only work if you run the code on a Linux platform using an Intel x86 platform. The online assembler will not work due to the lack of debugging features.
 - Knowledge of how to run assembly code using nasm assembler in Linux OS.
 - Knowledge of how to debug an assembly code using `gdb`.
 
@@ -17,28 +17,15 @@ Learn to perform loops and arrays instructions in Assembly Language.
 
 Perform the following tasks:
 
-1. Generate a counter using an EBX register, debug, and explain your findings. Use code written in the  counter (optimized version) example.
-2. 
-3. Find the largest number among the **five integer numbers**. Use initialize variables, and the output goes to the largest un-initialize variable. 
-
-## Debugging parameters
-
-I recommend using the following debugging parameters to display results. See the lecture contents for the explanation.
-
-```
-layout asm
-layout regs
-watch (int) largest
-break _start
-run
-stepi
-```
+1. Generate a counter using an EBX register, debug, and explain your findings. Use the code written in the  [counter (optimized version) example](https://htmlpreview.github.io/?https://github.com/d-khan/assembly/blob/main/loops-arrays/Lecture.html).  **2 points**
+2. Calculate the final number of the first 10 Fibonacci numbers starting from 0. The result should be equal to 55. **2 points **
+3. Define the array with length 4 and, type integer, find the largest element in the array. Use `gdb` to debug the code and verify that the code is working well and as per the requirement. **6 points**
 
 ## What to submit?
 
-1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. However, you can use any application of your choice. (1 mark)
-2. What were your challenges in performing the lab (from design to the implementation phases)? (1 mark)
-3. Working and error-free code. (3 marks)
+1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. However, you can use any application of your choice.
+2. What were your challenges in performing the lab (from design to the implementation phases)?
+3. Working and error-free code.
 
 ## How to submit it?
 
