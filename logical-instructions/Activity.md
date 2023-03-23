@@ -19,7 +19,6 @@ The variables on the right-hand side of the equations are initialized variables.
 
 1. Proof that **XORing** an operand with itself changes the operand to **0**.
 2. Create a case where you can implement a TEST instruction.
-3. Proof DeMorgan's first theorem $$\overline{A.B} = \bar{A}+\bar{B}$$
 
 ## Debugging parameters
 
