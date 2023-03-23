@@ -9,7 +9,7 @@ Learn to perform logical instructions in Assembly Language.
 ## Prerequisites
 
 - Before doing the lab, please review the lecture.
-- This lab will only work correctly if you run the code in an online assembler due to the lack of debugging features.
+- This lab will only work if you run the code on a Linux platform using an Intel x86 platform. The online assembler will not work due to the lack of debugging features.
 - Knowledge of how to run assembly code using nasm assembler in Linux OS.
 - Knowledge of how to debug an assembly code using `gdb`.
 
