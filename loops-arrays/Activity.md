@@ -19,7 +19,7 @@ Perform the following tasks:
 
 1. Generate a counter using an EBX register, debug, and explain your findings. Use the code written in the  [counter (optimized version) example](https://htmlpreview.github.io/?https://github.com/d-khan/assembly/blob/main/loops-arrays/Lecture.html).  **2 points**
 2. Calculate the final number of the first 10 Fibonacci numbers starting from 0. The result should be equal to 55. **2 points **
-3. Define the array with length 4 and, type integer, find the largest element in the array. Use `gdb` to debug the code and verify that the code is working well and as per the requirement. **6 points**
+3. Define the array with length 3 and, type integer, find the largest element in the array. Use `gdb` to debug the code and verify that the code is working well and as per the requirement. **6 points**
 
 ## What to submit?
 
