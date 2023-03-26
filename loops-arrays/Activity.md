@@ -1,5 +1,3 @@
-
-
 # Activity - Loops and arrays instructions
 
 ## Objective
