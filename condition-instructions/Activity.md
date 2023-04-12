@@ -17,7 +17,7 @@ Learn to perform conditional instructions in Assembly Language.
 
 Perform the following tasks:
 
-1. Generate an even or an odd number up to 20.
+1. Generate a sequence of even or an odd numbers up to 20.
 2. Find the largest number among the **five integer numbers**. Use initialize variables, and the output goes to the largest un-initialize variable. 
 
 ## Debugging parameters
