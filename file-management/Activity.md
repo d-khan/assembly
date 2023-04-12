@@ -27,7 +27,7 @@ Perform the following tasks:
 
 > *Better three hours too soon than a minute too late.*
 >
-> **No legacy is so rich as honesty.*
+> *No legacy is so rich as honesty.*
 
 ### How to append?
 For updating a file, perform the following tasks −
