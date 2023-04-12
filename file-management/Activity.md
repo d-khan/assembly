@@ -25,7 +25,7 @@ Perform the following tasks:
 
 2.  Append the following quotes in the same file. (5 marks)
 
-> *Better three hours too soon than a minute too late.**
+> *Better three hours too soon than a minute too late.*
 >
 > **No legacy is so rich as honesty.*
 
