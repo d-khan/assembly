@@ -12,7 +12,7 @@ Learn to write procedures in Assembly Language.
 ## Task
 
 Perform the following tasks:
-1. Generate English uppercase characters from A to Z. After every character, there must be a line feed. See the output below.
+1. Generate English uppercase characters from A to Z. After every character, there must be a line feed. Use procedures and loops to optimize the code. No need to use gdb. The executable file will run directly on the terminal.See the output below.
 
 ```
 A
