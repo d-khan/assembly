@@ -39,7 +39,7 @@ run _start
 stepi
 ```
 
-** Move the subprocedure below the _start: and verify if the code runs. Discuss the outcome with your classmates. **
+**Move the subprocedure below the _start: and verify if the code runs. Discuss the outcome with your classmates**
 
 ## Example code 2
 
