@@ -15,18 +15,18 @@ proc_name:
 
 ``` assembly
 section .text
-		global _start
+	global _start
 
 _start:
-		mov eax,10
-		mov ebx,20
-		call sum		;calling sum procedure
-		mov eax,1
-		int 0x80
+	mov eax,10
+	mov ebx,20
+	call sum		;calling sum procedure
+	mov eax,1
+	int 0x80
 
 sum:
-		add eax,ebx
-		ret
+	add eax,ebx
+	ret
 ```
 
 Run the above code and use gdb to debug the code. Assume the filename is `example.asm`. Use `run.sh` script to run the code. [Click here to get the details of how to run the code](https://sdccd-edu.zoom.us/rec/share/Heesw_hE-h9W58AAEX5HiNeiK4EsemWVhI5Vo7bCgeaG_ZrgPhmz-fUk2-tOmvFS.KVW8wyIHQqL2A2dd?startTime=1678767400000) 
