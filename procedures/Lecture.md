@@ -101,13 +101,13 @@ section .text
         global _start
 
 _start:
-				mov eax,10
-				push eax		;10 is saved in the stack
-				mov eax,20
-				pop eax			;10 is removed from the stack and saved in the eax
+	mov eax,10
+	push eax		;10 is saved in the stack
+	mov eax,20
+	pop eax			;10 is removed from the stack and saved in the eax
 
-				mov eax,1
-				int 0x80
+	mov eax,1
+	int 0x80
 ```
 Run the above code and use gdb to debug the code. Assume the filename is `example.asm`. Use `run.sh` script to run the code. [Click here to get the details of how to run the code](https://sdccd-edu.zoom.us/rec/share/Heesw_hE-h9W58AAEX5HiNeiK4EsemWVhI5Vo7bCgeaG_ZrgPhmz-fUk2-tOmvFS.KVW8wyIHQqL2A2dd?startTime=1678767400000) 
 ```
