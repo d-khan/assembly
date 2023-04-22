@@ -81,7 +81,7 @@ Assembly language provides two instructions for stack operations: PUSH and POP. 
 
 ```assembly
 push	operand
-pop		address/register
+pop	address/register
 ```
 
 The memory space reserved in the stack segment is used for implementing stack. The registers SS and ESP (or SP) are used for implementing the stack. The top of the stack, which points to the last data item inserted into the stack is pointed to by the SS:ESP register, where the SS register points to the beginning of the stack segment and the SP (or ESP) gives the offset into the stack segment.
