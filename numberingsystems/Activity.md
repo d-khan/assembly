@@ -9,6 +9,7 @@ Learn how to encrpyt/decrypt using a XOR logical operator.
 - Before doing the lab, please review the lecture.
 
 ## Task
+**Please note:** No need to write a code. Use paper and pencil and solve the following tasks.
 
 Perform the following tasks:
 ### Encrypting the message
