@@ -11,7 +11,6 @@ Learn how to encrpyt/decrypt using a XOR logical operator.
 ## Task
 **Please note:** No need to write a code. Use paper and pencil and solve the following tasks.
 
-Perform the following tasks:
 ### Encrypting the message
 1. Select a secret "one English word" message. Keep it secret.
 2. Convert the message into binary form. Each alphabet has a corresponding ASCII representation. Find out the [equivalent ASCII representation](https://www.asciitable.com/) of each character in the message.
