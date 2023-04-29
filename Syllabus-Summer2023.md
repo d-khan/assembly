@@ -13,7 +13,7 @@
 | Duration        | Jun 20 – Aug 12 (8 weeks)                                    |
 | Professor       | Dr Danish Khan                                               |
 | Office hours    | TBA                                                          |
-| Email           | dkhan1010@gmail.com                                          |
+| Email           | The best way to reach me is via Canvas Messaging System.     |
 
 ## __Important dates/deadline__
 
