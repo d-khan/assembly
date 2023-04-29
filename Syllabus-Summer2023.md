@@ -17,24 +17,21 @@
 
 ## __Important dates/deadline__
 
-__20 Jun__ Summer 2023 8-Week Session begins   
-__28 Jun__ Student Add/Drop: Deadline to drop classes with no "W" recorded. 
-__29 Jun__ Instructor Drop/Census: All drops must be submitted by Noon  
-__4 Jul__ __Independence day (CAMPUS CLOSED)__  
-__21 Jul__ Pass/No Pass: Deadline for the student to select the P/NP option.  
-Withdraw: Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.  
-__12 Aug__ Session ends.  
-__18 Aug__ Grades: Deadline for instructors to submit final grades. 
+__20 Jun__ Summer 2023 8-Week Session begins 
 
-| <div style="width:100px"></div> |                                                              |
-| :------------------------------ | :----------------------------------------------------------- |
-| 20 Jun                          | Summer 2023 Primary 8-Week Session Begins                    |
-| 28 Jun                          | __Student Add/Drop:__ Deadline to drop classes with no "W" recorded |
-| 29 Jun                          | Instructor Drop/Census: All drops must be submitted by Noon  |
-| 4 Jul                           | __Independence day (CAMPUS CLOSED)__                         |
-| 21 Jul                          | __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade. |
-| 12 Aug                          | Session end                                                  |
-| 18 Aug                          | __Grades:__ Deadline for instructors to submit final grades  |
+__28 Jun__ Student Add/Drop: Deadline to drop classes with no "W" recorded. 
+
+__29 Jun__ Instructor Drop/Census: All drops must be submitted by Noon 
+
+__4 Jul__ __Independence day (CAMPUS CLOSED)__ 
+
+__21 Jul__ Pass/No Pass: Deadline for the student to select the P/NP option.
+
+Withdraw: Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.  
+
+__12 Aug__ Session ends.  
+
+__18 Aug__ Grades: Deadline for instructors to submit final grades. 
 
 ## __Instructor communication policy__
 
