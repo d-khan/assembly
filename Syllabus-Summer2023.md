@@ -18,7 +18,7 @@
 ## __Important dates/deadline__
 
 __20 Jun__ Summer 2023 8-Week Session Begins   
-__28 Jun__ __Student Add/Drop:__ Deadline to drop classes with no "W" recorded
+__28 Jun__ Student Add/Drop: Deadline to drop classes with no "W" recorded
 
 | <div style="width:100px"></div> |                                                              |
 | :------------------------------ | :----------------------------------------------------------- |
