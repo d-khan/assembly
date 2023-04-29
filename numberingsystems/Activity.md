@@ -21,6 +21,7 @@ Learn how to encrpyt/decrypt using a XOR logical operator.
 1. Use the "encrypted message" and the "secret key" and perform the bitwise XOR operation.
 > **Remember to convert the encrypted message and the key into the binary form before applying the bitwise XOR operation**
 2. Verify that the decrypted message is the same as the "plain text".
+3. What strategies you will use to perform a bitwise XOR operation when plaintext and key have different lengths?
 
 ## What to submit?
 
