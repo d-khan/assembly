@@ -19,7 +19,7 @@
 
 __20 Jun__ Summer 2023 8-Week Session begins 
 
-__28 Jun__ Student Add/Drop: Deadline to drop classes with no "W" recorded. 
+__28 Jun__ __Student Add/Drop:__ Deadline to drop classes with no "W" recorded. 
 
 __29 Jun__ Instructor Drop/Census: All drops must be submitted by Noon 
 
