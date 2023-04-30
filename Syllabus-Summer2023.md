@@ -52,14 +52,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 ## __Textbook__
 
-I recommend following my notes and resources provided on the course site in Canvas. The following resources are for your reference only.
-
-1. Harris, Sarah L., and David Money Harris. Digital Design and Computer Architecture: ARM Edition, 1st ed. Morgan Kaufmann, 2016, ISBN: 9780128000564
-2. Hohl, William, and Christopher Hinds. ARM Assembly Language: Fundamentals and Techniques, 2nd ed. CRC Press, 2015, ISBN: 9781482229851
-3. Irvine, Kip R. Assembly Language for x86 Processors, 7th ed. Pearson, 2014, ISBN: 9780133769401
-4. Paul, Richard. SPARC Architecture, Assembly Language Programming, and C, 2nd ed. Pearson, 1999, ISBN: 9780130255969
-5. Stallings, William. Computer Organization and Architecture, 10th ed. Pearson, 2016, ISBN: 9780134101613
-6. Plantz, Robert G. Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux, Lulu or accessible online at bob.cs.sonoma.edu, 07-13-2016
+I recommend following my notes and resources provided on the course site in Canvas.
 
 ## __Software and hardware resources__
 
