@@ -56,8 +56,7 @@ I recommend following my notes and resources provided on the course site in Canv
 
 ## __Software and hardware resources__
 
-- VMware player to create virtual machines. Further details are in the canvas.
-- Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
+- Regular laptop/desktop along with the Internet connection are needed. The Assembly language will be using Linux OS on the Cloud. Further details are in the canvas.
 - SD Miramar students may check out laptops from the [library](https://sdmiramar.edu/library/materials-checkout).
 - Students may be eligible for emergency broadband internet discounts at [Affordable Connectivity Program](https://www.fcc.gov/acp).
 
