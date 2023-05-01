@@ -16,3 +16,4 @@ The exam will cover the following types of questions.
 - Multiple choice questions and True/False
 - Identify what values are saved in registers/variables
 
+There will be 5-10 questions. The exam time is 1 hour. The exam is worth 30%.
