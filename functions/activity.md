@@ -17,20 +17,7 @@ Apply functions in Assembly Language.
 
 Perform the following tasks:
 
-1. Generate a sequence of even or odd numbers up to 20. 
-2. Find the largest number among the **five integer numbers**. Use initialize variables, and the output goes to the largest un-initialize variable. 
-
-## Debugging parameters
-
-I recommend using the following debugging parameters to display results. See the lecture contents for the explanation.
-
-```
-layout asm
-layout regs
-break _start
-run
-stepi
-```
+1. Assign a number to a register or a variable, pass a number to the function and display the result, 'odd' or 'even'. The result should be displayed on the console. The function should check whether the number is an even or an odd number.
 
 ## What to submit?
 
@@ -55,4 +42,4 @@ The deadlines are posted on the Syllabus as well as on Canvas.
 
 ------
 
-Last updated: Mar 2023 by Dr. Danish Khan. 
+Last updated: Apr 2023 by Dr. Danish Khan. 
