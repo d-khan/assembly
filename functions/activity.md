@@ -8,7 +8,7 @@ Apply functions in Assembly Language.
 
 ## Prerequisites
 
-- Before doing the lab, please review the [Functions lecture](https://github.com/d-khan/assembly/blob/main/functions/Lecture.md)
+- Before doing the lab, please review the [Functions lecture](https://github.com/d-khan/assembly/blob/main/functions/Lecture.md).
 - This lab will only work if you run the code on a Linux platform using an Intel x86 platform. The online assembler will not work due to the lack of debugging features.
 - Knowledge of how to run assembly code using nasm assembler in Linux OS.
 - Knowledge of how to debug an assembly code using `gdb`.
