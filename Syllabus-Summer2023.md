@@ -45,7 +45,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 | 2    | 26 Jun                             | System and memory organization                               | Assignments due on 2 Jul           |
 | 3    | 3 Jul                              | Introduction to Assembly language, variables and constants   | Assignments due on 9 Jul           |
 | 4    | 10 Jul                             | Arithmetic and logical instructions,                         | Assignments due on 16 Jul          |
-| 5    | 17 Jul                             | **Mid term exam 17 July** Conditional instructions, loops and arrays                   | Assignments Due on 23 Jul          |
+| 5    | 17 Jul                             | **Mid term exam 17 July**; Conditional instructions, loops and arrays                   | Assignments Due on 23 Jul          |
 | 6    | 24 Jul                             | Procedures, functions and Project                            | Assignments due on 30 Jul          |
 | 7    | 31 Jul                             | File management                                              | Assignments & Project due on 6 Aug |
 | 8    | 7 Aug                              | __Final exam 11 Aug__                                        |                                    |
