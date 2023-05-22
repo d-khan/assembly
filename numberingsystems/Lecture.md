@@ -76,9 +76,9 @@ The $149_2$ is 10010101. Start with the lowest quotient and move upward, writing
 
 ### Example
 
-Based on the above concepts, practice base conversions (without the help of the Internet, calculator, or computer). Remember, when you go for an interview, you will have (most likely) no access to electronics. You
+Based on the above concepts, practice base conversions (without the help of the Internet, calculator, or computer). Remember, when you go for an interview, you will have (most likely) no access to electronics.
 
-1. Convert your first and last name in hexadecimal format. For example, Tom Tom in hexadecimal is 546F6D20546F6D. Remember that the name is case sensitive,se A differs from meaning upperca lowercase a.
+1. Convert your first and last name in hexadecimal format. For example, Tom Tom in hexadecimal is 546F6D20546F6D. Remember that the name is case-sensitive.
 
 Hint: Find your name characters in decimal format [using an ASCII table](https://www.asciitable.com/), convert them into binary, and finally, hexadecimal. Do not forget to add a space character if you have a space in your name.  
 
@@ -272,7 +272,7 @@ There are many applications of XOR. [Review the real-world applications](https:/
 
 In computer programming, a **bitwise operation** operates on a bit string. It is a fast and simple action, basic to the higher-level arithmetic operations, and directly supported by the processor. Most bitwise operations are presented as two-operand instructions where the result replaces one of the input operands.
 
-On simple low-cost processors, typically, bitwise operations are substantially faster than division, several times faster than multiplication, and sometimes significantly faster than addition. While modern processors usually perform addition and multiplication just as fast as bitwise operations due to their longer instruction pipelines and other architectural design choices, bitwise operations commonly use less power because of the reduced use of resources.
+On simple, low-cost processors, typically, bitwise operations are substantially faster than division, several times faster than multiplication, and sometimes significantly faster than addition. While modern processors usually perform addition and multiplication just as fast as bitwise operations due to their longer instruction pipelines and other architectural design choices, bitwise operations commonly use less power because of the reduced use of resources.
 
 ### Example - bitwise NOT
 
@@ -568,6 +568,7 @@ def add(a,b):
 Sometimes it is useful to simplify complex expressions made up of bitwise operations, for example when writing compilers. The goal of a compiler is to translate a high level programming language into the most efficient machine code possible. Boolean algebra is used to simplify complex bitwise expressions.
 
 ### AND
+
 - `x & y = y & x`
 - `x & (y & z) = (x & y) & z`
 - `x & 0xFFFF = x`
