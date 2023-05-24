@@ -1,7 +1,3 @@
-
-
-[TOC]
-
 # Introduction to Assembly Language
 
 Assembly language is a low-level programming language for a computer or other programmable device specific to a particular computer architecture, unlike most high-level programming languages, which are generally portable across multiple systems. Assembly language is converted into executable machine code by a utility program called an assembler like NASM, MASM, etc.
