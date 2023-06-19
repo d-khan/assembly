@@ -46,7 +46,7 @@ To run, ensure you have reviewed the lecture contents, where I have explained ho
 
 When you execute the code on the command line (terminal),  you will not see any output if there is no error. You need to debug your code using `gdb`. 
 
-**Note: You need to set up 'result' as a watch variable in gdb. Then, you should be able to see the sum of var1 and var2. **
+** Note: You need to set up 'result' as a watch variable in gdb. Then, you should be able to see the sum of var1 and var2. **
 
 ## What to submit?
 
