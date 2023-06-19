@@ -23,21 +23,21 @@ section .text
 
 _start:
         ;use this space for the main body of your program
-   			;======== write your code below ===========
+   	;======== write your code below ===========
    			
    			
    			
    			
-   			;======== write your code above ===========
+   	;======== write your code above ===========
         
-        mov eax,1					;set eax register to 1 (do not remove this line)
-        int 0x80					;interrupt 0x80 (do not remove this line)
+        mov eax,1	;set eax register to 1 (do not remove this line)
+        int 0x80	;interrupt 0x80 (do not remove this line)
 
 segment .bss
         ;use this space for uninitialized variable (result)
 
 segment .data
-				;use this space for initialized variables (var1 and var2)
+	;use this space for initialized variables (var1 and var2)
 ```
 
 
