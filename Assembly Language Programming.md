@@ -55,25 +55,8 @@ The processor supports the following data sizes −
 
 ## Local Environment Setup
 
-Assembly language depends upon the instruction set architecture and the process. In this tutorial, we focus on Intel-32 processors like Pentium. To follow this tutorial, you will need 
+Assembly language depends upon the instruction set architecture and the process. In this tutorial, we focus on Intel-32 processors like Pentium. To follow this tutorial, make sure you have watched the [video](https://sdccd-edu.zoom.us/rec/share/sYR9fgVBhST-BVNqVzH8j4JfSjrcn5n1QyyUUHLGtd2s4Ay23tVnRcCNvgQ4flxb.YzYnDVYMLrMw9u6W?startTime=1680712060000)
 
-- An Intel processor (not M1 or M2)
-- A copy of the Linux operating system (explain further in the lab)
-- A copy of the NASM assembler program
-
-There are many good assembler programs, such as −
-
-- Microsoft Assembler (MASM)
-- Borland Turbo Assembler (TASM)
-- The GNU assembler (GAS)
-
-We will use the NASM (Netwide Assemble) assembler as it is −
-
-- Free. You can download it from [NASM.](https://www.nasm.us) 
-- Well documented, and you will get lots of information on the net.
-- It could be used on Linux, Windows, and OSX.
-
-> __Alternatively, you can use an online NASM assembler if you do not have an Intel processor or a laptop. There are several online NASM assemblers that you can use, such as online [NASM assemblers available](https://www.jdoodle.com/compile-assembler-nasm-online/). However, I am in the process of testing these compilers.__
 
 ## Basic Syntax
 
