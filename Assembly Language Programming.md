@@ -55,7 +55,7 @@ The processor supports the following data sizes −
 
 ## Local Environment Setup
 
-Assembly language depends upon the instruction set architecture and the process. In this tutorial, we focus on Intel-32 processors like Pentium. To follow this tutorial, make sure you have watched the [video](https://sdccd-edu.zoom.us/rec/share/sYR9fgVBhST-BVNqVzH8j4JfSjrcn5n1QyyUUHLGtd2s4Ay23tVnRcCNvgQ4flxb.YzYnDVYMLrMw9u6W?startTime=1680712060000)
+Assembly language depends upon the instruction set architecture and the process. In this tutorial, we focus on Intel-32 processors like Pentium. To follow this tutorial, make sure you have watched the [video](https://sdccd-edu.zoom.us/rec/share/sYR9fgVBhST-BVNqVzH8j4JfSjrcn5n1QyyUUHLGtd2s4Ay23tVnRcCNvgQ4flxb.YzYnDVYMLrMw9u6W?startTime=1680712060000).
 
 
 ## Basic Syntax
