@@ -159,7 +159,9 @@ len equ $ - msg     		;length of the string
                     		;len equals current offset - msg
 ```
 
-## Compiling and Linking an Assembly Program in NASM
+## Compiling and Linking an Assembly Program
+
+[How to execute your first assembly language code](https://sdccd-edu.zoom.us/rec/share/h2iXYblKtPxTjeDgJ4086AW6H-73QlXUZJlskQ3_2Nkew7RqNNeaSwcxUrISrzk.zONixP8fPYoJkrgq?startTime=1687163989000)
 
 
 ## Making Syscalls on X86
