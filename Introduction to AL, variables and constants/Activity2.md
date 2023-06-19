@@ -41,7 +41,6 @@ segment .data
 ```
 
 
-
 To run, ensure you have reviewed the lecture contents, where I have explained how to compile, link and debug the assembly code using `gdb`. Alternatively, you can find the video here as well. [How to execute your first assembly language code](https://sdccd-edu.zoom.us/rec/share/h2iXYblKtPxTjeDgJ4086AW6H-73QlXUZJlskQ3_2Nkew7RqNNeaSwcxUrISrzk.zONixP8fPYoJkrgq?startTime=1687163989000)
 
 When you execute the code on the command line (terminal),  you will not see any output if there is no error. You need to debug your code using `gdb`. 
