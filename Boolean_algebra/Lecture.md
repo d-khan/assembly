@@ -605,3 +605,52 @@ A D flip-flop and an additional circuit can be used to capture the desired behav
 
 Boolean algebra is used to simplify the circuit, use less number of gates, and so on. Always strike for a simple design. Remember, if the design is complicated, the implementation, the troubleshooting, and the maintenance will be complicated too. The topics in the lecture are superficially covered to provide you an introductory-level knowledge for Computer Science students. The advanced topics are suitable for students who are pursuing Computer Engineering/Electronics degrees.
 
+---
+
+## Boolean algebra properties (optional)
+
+### AND
+
+- `x & y = y & x`
+- `x & (y & z) = (x & y) & z`
+- `x & 0xFFFF = x`
+- `x & 0 = 0`
+- `x & x = x`
+
+### OR
+
+- `x | y = y | x`
+- `x | (y | z) = (x | y) | z`
+- `x | 0 = x`
+- `x | 0xFFFF = 0xFFFF`
+- `x | x = x`
+
+### NOT
+
+- `~(~x) = x`
+
+### XOR
+
+- `x ^ y = y ^ x`
+- `x ^ (y ^ z) = (x ^ y) ^ z`
+- `x ^ 0 = x`
+- `x ^ y ^ y = x`
+- `x ^ x = 0`
+- `x ^ 0xFFFF = ~x`
+
+Additionally, XOR can be composed using the 3 basic operations (AND, OR, NOT)
+
+- `a ^ b = (a | b) & (~a | ~b)`
+- `a ^ b = (a & ~b) | (~a & b)`
+
+### Others
+
+- `x | (x & y) = x`
+- `x & (x | y) = x`
+- `~(x | y) = ~x & ~y`
+- `~(x & y) = ~x | ~y`
+- `x | (y & z) = (x | y) & (x | z)`
+- `x & (y | z) = (x & y) | (x & z)`
+- `x & (y ^ z) = (x & y) ^ (x & z)`
+- `x + y = (x ^ y) + ((x & y) << 1)`
+- `x - y = ~(~x + y)`
