@@ -2,7 +2,7 @@
 
 ## Objective
 
-Apply Boolean algebra and simplify equations
+Apply Boolean algebra and simplify equations.
 
 ## Prerequisites
 
