@@ -9,7 +9,10 @@ Apply Boolean algebra and simplify equations
 - Before doing the lab, please review the lecture.
 
 ## Task
-1. 3-variable K map
+1. Simplify the following equation:
+
+$ F = A'B'C + A'B'C + A'BC + AB'C + ABC' $
+
 2. Simplifying an equation using Boolean algebra properties: Motion-sensing light.
 
 - Inputs: m: motion sensed, t: test mode
