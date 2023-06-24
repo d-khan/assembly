@@ -27,6 +27,7 @@ Write the equation and then simplify the original equation
 
 1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. However, you can use any application of your choice. (1 mark)
 2. What were your challenges in performing the lab (from design to the implementation phases)? (1 mark)
+3. Provide solutions to the questions posted above.
 
 ## How to submit it?
 
