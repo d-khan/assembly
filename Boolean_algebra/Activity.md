@@ -12,9 +12,12 @@ Apply Boolean algebra and simplify equations
 1. 3-variable K map
 2. Simplifying an equation using Boolean algebra properties: Motion-sensing light.
 
-Inputs: m: motion sensed, t: test mode
-Outputs: i: illuminate lamp
-Goal: Illuminate lamp if motion and not test mode, or if test mode and no motion, or if test mode and motion
+- Inputs: m: motion sensed, t: test mode
+
+- Outputs: i: illuminate lamp
+
+- Goal: Illuminate lamp if motion and not test mode, or if test mode and no motion, or if test mode and motion  
+
 Write the equation and then simplify the original equation
 
 ### Encrypting the message
