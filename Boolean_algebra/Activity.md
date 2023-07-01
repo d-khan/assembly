@@ -11,7 +11,7 @@ Apply Boolean algebra and simplify equations.
 ## Task
 1. Simplify the following equation:
 
-$F = A'B'C + A'B'C + A'BC + AB'C + ABC'$
+$F = A'B'C' + A'B'C + A'BC + AB'C + ABC'$
 
 2. Simplifying an equation using Boolean algebra properties: Motion-sensing light.
 
