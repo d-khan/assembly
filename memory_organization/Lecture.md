@@ -151,6 +151,14 @@ Sustaining that much bandwidth requires clever organization *inside* the DRAM. I
 
 Although personal mobile devices like the iPad use individual DRAMs, memory for servers is commonly sold on small boards called *dual inline memory modules* (DIMMs). DIMMs typically contain 4-16 DRAMs, and they are normally organized to be 8 bytes wide for server systems. A DIMM using DDR4-3200 SDRAMs could transfer at 8 × 3200 = 25,600 megabytes per second. Such DIMMs are named after their bandwidth: PC25600. Since a DIMM can have so many DRAM chips that only a portion of them are used for a particular transfer, we need a term to refer to the subset of chips in a DIMM that share common address lines. To avoid confusion with the internal DRAM names of row and banks, we use the term *memory rank* for such a subset of chips in a DIMM.
 
+SRAM is faster than DRAM, but DRAM is denser and cheaper. SRAM is thus typically used by processors for small fast on-chip cache, while DRAM is used for the larger main memory off-chip. Also, processors and SRAM are made using different chip design processes than DRAM, so putting DRAM on-chip with a processor is rare.
+
+<img width="626" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/6a68ae52-b0d6-476e-890b-b6cdf73a0fc8">
+
+1. SRAM read/writes are about 10x faster than for DRAM.
+2. But DRAM's are about 5x denser (using only 1 transistor/cell). Because of the density and mass production, DRAM's are about 100x cheaper too.
+3. Thus, SRAM is used primarily for a processor's small but fast cache or other small on-chip memory, while DRAM is used for a processor's large main memory off-chip.
+4. 
 ### Flash memory
 
 **Flash memory** is a type of *electrically erasable programmable read-only memory* (EEPROM).
