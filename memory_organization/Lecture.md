@@ -96,10 +96,10 @@ As we will, the concepts used to build memory systems affect many other aspects 
 Since memory systems are critical to performance, computer designers devote a great deal of attention to these systems and develop sophisticated mechanisms for improving the performance of the memory system. We will discuss the major conceptual ideas, although we use many simplifications and abstractions to keep the material manageable in length and complexity.
 
 > Programs exhibit both temporal locality, the tendency to reuse recently accessed data items, and spatial locality, the tendency to reference data items that are close to other recently accessed items. Memory hierarchies take advantage of temporal locality by keeping more recently accessed data items closer to the processor. Memory hierarchies take advantage of spatial locality by moving blocks consisting of multiple contiguous words in memory to upper levels of the hierarchy.
->
+> 
 > The figure below shows that a memory hierarchy uses smaller and faster memory technologies close to the processor. Thus, accesses that hit in the highest level of the hierarchy can be processed quickly. Accesses that miss go to lower levels of the hierarchy, which are larger but slower. If the hit rate is high enough, the memory hierarchy has an effective access time close to that of the highest (and fastest) level and a size equal to that of the lowest (and largest) level.
->
-> In most systems, the memory is a true hierarchy, meaning that data cannot be present in level *i* unless it is also present in level *i* + 1.
+
+In most systems, the memory is a true hierarchy, meaning that data cannot be present in level *i* unless it is also present in level *i* + 1.
 
 <img width="490" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/d1b63217-407f-4b00-b692-23d72e5eb536">
 
