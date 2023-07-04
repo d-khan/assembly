@@ -1,4 +1,48 @@
 # Memory basics
+A memory unit is a collection of storage units or devices together. The memory unit stores the binary information in the form of bits. Generally, memory/storage is classified into two categories:
+
+- **Volatile Memory**: This loses its data, when power is switched off.
+- **Non-Volatile Memory**: This permanent storage does not lose data when power is switched off.
+
+<img width="619" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/d9b28d0f-8377-4194-85cf-75eca9d1809b">
+
+The hierarchy of components can visualize the total memory capacity of a computer. The memory hierarchy system consists of all storage devices in a computer system, from the slow Auxiliary Memory to the fast Main Memory and smaller Cache memory.
+
+**Auxillary memory** access time is generally **1000 times** that of the main memory. Hence it is at the bottom of the hierarchy.
+
+The **main memory** occupies the central position because it is equipped to communicate directly with the CPU and with auxiliary memory devices through the Input/output processor (I/O).
+
+When the program not residing in the main memory is needed by the CPU, they are brought in from auxiliary memory. Programs not currently required in main memory are transferred into auxiliary memory to provide space in main memory for other currently used programs.
+
+The **cache memory** is used to store program data that is currently being executed in the CPU. The approximate access time ratio between cache memory and main memory is about **1 to 7~10**
+
+Each memory type is a collection of numerous memory locations. To access data from any memory, first, it must be located, and then the data is read from the memory location. The following are the methods to access information from memory locations:
+
+1. **Random Access**: Main memories are random access memories, with each memory location having a unique address. Using this unique address, any memory location can be reached in the same amount of time in any order.
+2. **Sequential Access**: This method allows memory access in a sequence or in order.
+3. **Direct Access**: In this mode, information is stored in tracks, each having a separate read/write head.
+
+The memory unit communicating directly within the CPU, Auxiliary, and Cache memory is called main memory. It is the central storage unit of the computer system. It is a large and fast memory used to store data during computer operations. Main memory comprises **RAM** and **ROM**, with RAM-integrated circuit chips holding a significant share.
+
+- RAM: Random Access Memory
+  - **DRAM**: Dynamic RAM comprises capacitors and transistors and must be refreshed every 10~100 ms. It is slower and cheaper than SRAM.
+  - **SRAM**: Static RAM has a six-transistor circuit in each cell and retains data until powered off.
+  - **NVRAM**: Non-Volatile RAM retains its data, even when turned off—for example, Flash memory.
+- ROM: Read Only Memory is non-volatile and more like permanent information storage. It also stores the **bootstrap loader** program to load and start the operating system when the computer is turned on. **PROM**(Programmable ROM), **EPROM**(Erasable PROM), and **EEPROM**(Electrically Erasable PROM) are some commonly used ROMs.
+
+Devices that provide backup storage are called auxiliary memory. **For example, Magnetic disks and tapes are commonly used auxiliary devices. Other devices used as auxiliary memory are magnetic drums, magnetic bubble memory, and optical disks.
+
+It is not directly accessible to the CPU, and is accessed using the Input/Output channels.
+
+The data or contents of the main memory used repeatedly by the CPU are stored in the cache memory so that we can easily access that data in a shorter time.
+
+Whenever the CPU needs to access memory, it first checks the cache memory. If the data is not found in cache memory, the CPU moves onto the main memory. It also transfers blocks of recent data into the cache and deletes the old data in the cache to accommodate the new one.
+
+The performance of cache memory is measured in terms of a quantity called **hit ratio**. When the CPU refers to memory and finds the word in the cache, it is said to produce a **hit**. If the word is not found in the cache, it is in the main memory, then it counts as a **miss**.
+
+The ratio of the number of hits to the total CPU references to memory is called the hit ratio. $Hit Ratio = Hit/(Hit + Miss)$.
+
+It is also known as **content addressable memory (CAM)**. It is a memory chip in which each bit position can be compared. The content is compared in each bit cell, allowing speedy table lookup. Since the entire chip can be compared, contents are randomly stored without considering the addressing scheme. These chips have less storage capacity than regular memory chips.
 
 From the earliest days of computing, programmers have wanted unlimited amounts of fast memory. The topics covered in the lecture aid programmers by creating that illusion. Before we look at creating the illusion, let's consider a simple analogy that illustrates the key principles and mechanisms that we use.
 
