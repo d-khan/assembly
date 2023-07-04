@@ -117,7 +117,7 @@ A memory's size may be specified in various ways.
 
 Memory sizes are commonly measured in MB (megabytes, or 1 million bytes)), GB (gigabytes, or 1 billion bytes), or TB (terabytes, or 1 trillion bytes). Ex: A 16 GB memory. The uppercase B means bytes (like GB), while lowercase b means bits (like Gb).
 
-Memory sizes are powers of 2, so metric prefixes like kilo, mega, and giga, which are powers of 10, are inaccurate. Alternative prefixes, known as **IEC prefixes**, exist like kibi ($2^{10}$ or 1024), mebi (2 $^{20}$  or 1,048,576), gibi (2$^{30}$ or 1,073,741,824), and tebi (2$^{40}$ or 1,099,511,627,776). In kibi, the ki refers to the metric prefix kilo, and the bi to "binary". A kibi is abbreviated Ki, as in 1 KiB for 1 kibibyte. Likewise for other IEC prefixes.
+Memory sizes are powers of 2, so metric prefixes like kilo, mega, and giga, which are powers of 10, are inaccurate. Alternative prefixes, known as **IEC prefixes**, exist like kibi ($2^{10}$ or 1024), mebi ($2^{20}$  or 1,048,576), gibi ($2^{30}$ or 1,073,741,824), and tebi ($2^{40}$ or 1,099,511,627,776). In kibi, the ki refers to the metric prefix kilo, and the bi to "binary". A kibi is abbreviated Ki, as in 1 KiB for 1 kibibyte. Likewise for other IEC prefixes.
 
 When metric prefixes are used, those prefixes are known to actually refer to the nearest power of 2, so a kilobyte is known to mean 1024 bytes (a kibibyte) and not 1000 bytes.
 
