@@ -174,7 +174,7 @@ SRAM is faster than DRAM, but DRAM is denser and cheaper. SRAM is thus typically
 1. SRAM read/writes are about 10x faster than for DRAM.
 2. But DRAM's are about 5x denser (using only 1 transistor/cell). Because of the density and mass production, DRAM's are about 100x cheaper too.
 3. Thus, SRAM is used primarily for a processor's small but fast cache or other small on-chip memory, while DRAM is used for a processor's large main memory off-chip.
-4. 
+
 ### Flash memory
 
 **Flash memory** is a type of *electrically erasable programmable read-only memory* (EEPROM).
