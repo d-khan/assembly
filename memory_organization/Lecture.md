@@ -105,6 +105,22 @@ Since memory systems are critical to performance, computer designers devote a gr
 
 This structure, with the appropriate operating mechanisms, allows the processor to have an access time that is determined primarily by level 1 of the hierarchy and yet have a memory as large as level *n*. Although the local disk is normally the bottom of the hierarchy, some systems use tape or a file server over a local area network as the next levels of the hierarchy.
 
+## Memory size
+
+A memory's size may be specified in various ways.
+
+- *4096x32*: Indicates the number of words, and the bits per word.
+- *131,072 bits*: Indicates the total number of bits.
+- *16,384 bytes*: Indicates the total number of bytes (a byte is 8 bits).
+- *16 KBytes (or 16 KB)*: Approximate number of bytes. The K is the metric kilo, for 1,000. Note: This method is common *but inaccurate*, because 16 Kbytes means 16,000 bytes rather than the actual 16,384 bytes.
+- *128 Kbits (or 128 Kb)*: Indicates the total number of bits. Again, this method is common *but inaccurate*.
+
+Memory sizes are commonly measured in MB (megabytes, or 1 million bytes)), GB (gigabytes, or 1 billion bytes), or TB (terabytes, or 1 trillion bytes). Ex: A 16 GB memory. The uppercase B means bytes (like GB), while lowercase b means bits (like Gb).
+
+Memory sizes are powers of 2, so metric prefixes like kilo, mega, and giga, which are powers of 10, are inaccurate. Alternative prefixes, known as **IEC prefixes**, exist like kibi ($2^{10}$ or 1024), mebi (2$^{20}$ or 1,048,576), gibi (2$^{30}$ or 1,073,741,824), and tebi (2$^{40}$ or 1,099,511,627,776). In kibi, the ki refers to the metric prefix kilo, and the bi to "binary". A kibi is abbreviated Ki, as in 1 KiB for 1 kibibyte. Likewise for other IEC prefixes.
+
+When metric prefixes are used, those prefixes are known to actually refer to the nearest power of 2, so a kilobyte is known to mean 1024 bytes (a kibibyte) and not 1000 bytes.
+
 ## Memory technologies
 
 There are four primary technologies used today in memory hierarchies. Main memory is implemented from DRAM (*dynamic random access memory*), while levels closer to the processor (caches) use SRAM (*static random access memory*). DRAM is less costly per bit than SRAM, although it is substantially slower. The price difference arises because DRAM uses significantly less area per bit of memory, and DRAMs thus have larger capacity for the same amount of silicon; the speed difference arises from several factors. The third technology is flash memory. This nonvolatile memory is the secondary memory in Personal Mobile Devices. The fourth technology, used to implement the largest and slowest level in the hierarchy in servers, is magnetic disk. The access time and price per bit vary widely among these technologies, as the table below shows, using typical values for 2020:
@@ -299,6 +315,45 @@ The rate at which writes are generated may also be less than the rate at which t
 The alternative to a write-through scheme is a scheme called *write-back*. In a write-back scheme, when a write occurs, the new value is written only to the block in the cache. The modified block is written to the lower level of the hierarchy when it is replaced. Write-back schemes can improve performance, especially when processors can generate writes as fast or faster than the writes can be handled by main memory; a write-back scheme is, however, more complex to implement than write-through.
 
 **Write-back**: A scheme that handles writes by updating values only to the block in the cache, then writing the modified block to the lower level of the hierarchy when the block is replaced.
+
+## ROM design
+
+Flip-flops, SRAMs, and DRAMs lose stored bits when electrical power is removed (*volatile* memory). In contrast, **ROM** (read-only memory) retains stored bits when power is removed (*non-volatile* memory), by using technology that usually has slow writes, so writes are less frequent than reads; hence the term "read-only" (a misnomer when writing is in fact possible). Writing to a ROM is called **programming** the ROM.
+
+Bit storage in a ROM commonly uses a **floating-gate transistor** having a special region where electrons can be trapped, staying there even without power. Applying a large positive voltage traps the electrons (programming). A large negative voltage frees the electrons (erasing). Applying such large voltages long enough to trap or free electrons is slow, which is why writing a ROM is slow.
+
+<img width="632" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/564fb158-2fa6-4116-8924-919190bdd01e">
+<img width="632" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/2f6ad7c7-ad1b-492b-b392-0bcfa81a607a">
+<img width="632" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/f801cc2e-0957-40a6-8b00-41e268ceb138">
+<img width="615" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/1cba5e11-08af-44cf-92fe-077291ea33c8">
+<img width="640" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/22c872df-ed66-4a3b-9d90-f4f89d018aa6">
+
+1. A normal transistor does not conduct when the gate input is 0, and conducts when the gate is 1.
+2. A floating-gate transistor has a special region called a floating-gate. The transistor can work like a normal transistor.
+3. A large positive voltage causes electrons to tunnel into the special region. When that voltage is removed, the electrons are trapped. The transistor has been "programmed".
+4. Now, the transistor won't conduct even with a 1 at the gate. The negative electrons "block" the positive 1 from switching the transistor to conduct.
+5. In a ROM, for an address, one word line will be 1. The data lines become 0 for unprogrammed transistors, and 1 for programmed transistors (uses special circuitry).
+
+Numerous ROM types exist.
+
+- **Mask-programmed ROM**: The word line to bit line connections are hardwired during chip manufacturing, and can never be changed.
+- **OTP ROM** (one-time programmable ROM): The word line to bit line connections have a fuse that can be "blown" to break the connection. A user can program the device only once.
+- **EPROM** (erasable programmable ROM): Programming uses large positive voltage to trap electrons in a floating-gate transistor, but erasing is done by placing the chip under ultraviolet light to provide the energy to free the trapped electrons. This ROM type preceded the more convenient EEPROM.
+- **EEPROM** (electrically-erasable programmable ROM): Programming uses large positive voltage to trap electrons in a floating-gate transistor, and erasing uses a large negative voltage.
+- **Flash**: Programming uses large positive voltage to trap electrons in a floating-gate transistor, and erasing uses a large negative voltage to quickly erase entire blocks of locations at one time, like a "flash".
+
+## Chip economics
+
+A **chip** (aka **integrated circuit** or **IC**) is a digital circuit manufactured on a fingernail-sized piece of silicon, typically placed inside a black or silver insulating package.
+
+**Non-recurring engineering** (or **NRE**) cost is the cost to design and set up a computer chip for manufacturing. Due to the complexity of modern chips having billions of transistors, NRE costs may be tens or hundreds of millions of dollars. That cost adds to a chip's cost, depending on the number of chips made. Ex: NRE cost for a chip may be USD 10,000,000. If 10,000 chips are made, USD 10,000,000/10,000 = USD 1000 needs to be added per chip to cover NRE cost. But if 1,000,000 chips are made, only USD 10,000,000/1,000,000 = USD 10 need be added. Thus, mass-producing a chip allows for lower chip costs, since NRE cost can be spread.
+
+The chip manufacturing process simultaneously creates multiple identical chips on a silicon wafer (a round silicon slice), and then each chip is cut out. The manufacturing process may take hours or days and is costly. Unfortunately, a wafer may have defects, like a broken wire, that render some chips unusable. **Yield** is the percentage of chips that are usable and free from significant defects. Ex: If 40 of 50 chips on a wafer are usable, yield is 40/50 = 80%. Larger chips are more likely to enclose a defect and thus have lower yield.
+
+<img width="645" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/bec86254-b20a-4403-a122-1fe3e6aebe0f">
+<img width="481" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/f979730d-a74e-46df-b011-eba9f051354b">
+<img width="614" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/b2e3e853-031a-4738-ac32-cd06463b785e">
+
 
 ## Summary
 
