@@ -30,7 +30,7 @@
 |10 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
 |23-24 Nov              |   __Thanksgiving (CAMPUS CLOSED)__ |
 |16 Dec                 |   Session end|
-|5 Jan 2024                 __Grades:__ Deadline for instructors to submit final grades|
+|5 Jan 2024             | __Grades:__ Deadline for instructors to submit final grades|
 
 ## __Instructor communication policy__
 
