@@ -34,7 +34,7 @@
 
 ## __Instructor communication policy__
 
-The best way to reach me is via my email __dkhan1010@gmail.com__  
+The best way to reach me is via my email __Canvas Messaging System__  
 
 If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
@@ -42,14 +42,14 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Date</div>|Topics | Deadlines|
 |-|--|--|----|
-|1 |30 Jan  |Data representation | Assignments due on 5 Feb |
-|2  |6 Feb  |Boolean Algebra | Assignments due on 12 Feb |
-|3  |13 Feb |System Organization | Assignments due on 19 Feb |
-|4  |20 Feb |Memory organization | Assignments due on 26 Feb |
-|5  |27 Feb |Variables and simple data structures in memory | Assignments Due on 5 Mar|
-|6  |6 Mar  |The 80x86 instruction set | Assignments due on 12 Mar|
-|7  |13 Mar |Code optimizations| Assignments due on 19 Mar|
-|8  |20 Mar |Revision, __Midterm on 22 Mar__|
+|1  |21 Aug |Data representation | Assignments due on 5 Feb |
+|2  |28 Aug  |Boolean Algebra | Assignments due on 12 Feb |
+|3  |4 Sep  |System Organization | Assignments due on 19 Feb |
+|4  |11 Sep |Memory organization | Assignments due on 26 Feb |
+|5  |18 Sep |Variables and simple data structures in memory | Assignments Due on 5 Mar|
+|6  |25 Sep  |The 80x86 instruction set | Assignments due on 12 Mar|
+|7  |2 Oct |Code optimizations| Assignments due on 19 Mar|
+|8  |9 Oct |Revision, __Midterm on 9 Oct__|
 |||__Spring break (27 Mar - 1 Apr) - No classes__|
 |9  |3 Apr  |Arithmetic and logical operations| Assignments due on 9 Apr|
 |10 |10 Apr |Control Structures | Assignments due on 16 Apr|
