@@ -42,22 +42,22 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from</div>|Topics | Deadlines|
 |-|--|--|----|
-|1  |21 Aug |Data representation | Assignments due on 5 Feb |
-|2  |28 Aug  |Boolean Algebra | Assignments due on 12 Feb |
-|3  |4 Sep  |System Organization | Assignments due on 19 Feb |
-|4  |11 Sep |Memory organization | Assignments due on 26 Feb |
-|5  |18 Sep |Variables and simple data structures in memory | Assignments Due on 5 Mar|
-|6  |25 Sep  |The 80x86 instruction set | Assignments due on 12 Mar|
-|7  |2 Oct |Code optimizations| Assignments due on 19 Mar|
+|1  |21 Aug |Data representation | Assignments due on 27 Aug |
+|2  |28 Aug  |Boolean Algebra | Assignments due on 3 Sep |
+|3  |4 Sep  |System Organization | Assignments due on 10 Sep |
+|4  |11 Sep |Memory organization | Assignments due on 17 Sep |
+|5  |18 Sep |Variables and simple data structures in memory | Assignments Due on 24 Sep|
+|6  |25 Sep  |The 80x86 instruction set | Assignments due on 1 Oct|
+|7  |2 Oct |Code optimizations| Assignments due on 8 Oct|
 |8  |9 Oct |Revision, __Midterm on 9 Oct__|
-|9  |16 Oct  |Arithmetic and logical operations| Assignments due on 9 Apr|
-|10 |23 Oct |Control Structures | Assignments due on 16 Apr|
-|11 |30 Oct |Loops and Arrays | Assignments due on 23 Apr|
-|12 |6 Nov |Procedures and Functions | Assignments due on 30 Apr |
-|13 |13 Nov  |Procedures and Functions (contd.) | Assignments due on 7 May |
+|9  |16 Oct  |Arithmetic and logical operations| Assignments due on 22 Oct|
+|10 |23 Oct |Control Structures | Assignments due on 29 Oct|
+|11 |30 Oct |Loops and Arrays | Assignments due on 5 Nov|
+|12 |6 Nov |Procedures and Functions | Assignments due on 12 Nov |
+|13 |13 Nov  |Procedures and Functions (contd.) | Assignments due on 19 Nov |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |File Management | Assignments due on 14 May |
-|15 |4 Dec |Revision and project work | Project submission 26 May |
+|14 |27 Nov  |File Management | Assignments due on 3 Nov |
+|15 |4 Dec |Revision and project work | Project submission 10 Dec |
 |16 |11 Dec |__Final exam on 11 Dec__
 
 ## __Textbook__
