@@ -5,30 +5,32 @@
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
-|   Year                        |   Spring 2023-24|
-|   Class ID                    |   25697|
-|   Section                     |   3001|
+|   Year                        |   Fall 2023-24|
+|   Class Number                |   40979|
+|   Course ID                   |   069906|
+|   Section                     |   3005|
 |   Location                    |   Miramar College, M building, Room M-102|
 |   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Jan 30 – May 27 (16 weeks)|
+|   Duration                    |   Aug 21 – Dec 16 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
 |   Office hours                |   Wed 12:35-1:35 pm (Room M-102)|
-|   Email                       |   dkhan1010@gmail.com |
+|   Email                       |   Use Canvas Messaging to email me  |
 
 ## __Important dates/deadline__
 
 |<div style="width:100px"></div> ||
 |:----------------------|:--------------|
-|30 Jan                 |   Spring 2023 Primary 16-Week Session Begins |
-|10 Feb                 |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
-|13 Feb                 |   Instructor Drop/Census: All drops must be submitted by Noon
-|17-20 Feb              |   __Lincoln/Washington Day (CAMPUS CLOSED)__ |
-|31 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
-|14 Apr                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|27 May                 |   Session end|
-|29 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
-|2 Jun                  |   __Grades:__ Deadline for instructors to submit final grades|
+|21 Aug                 |   Spring 2023 Primary 16-Week Session Begins |
+|1 Sep                  |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
+|1 Sep                  |   Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.
+|4 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
+|5 Sep                  |   Instructor Drop/Census: All drops must be submitted by Noon
+|27 Oct                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|10 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
+|23-24 Nov              |   __Thanksgiving (CAMPUS CLOSED)__ |
+|16 Dec                 |   Session end|
+|5 Jan 2024                 __Grades:__ Deadline for instructors to submit final grades|
 
 ## __Instructor communication policy__
 
