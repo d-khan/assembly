@@ -23,7 +23,7 @@
 |:----------------------|:--------------|
 |21 Aug                 |   Spring 2023 Primary 16-Week Session Begins |
 |1 Sep                  |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
-|1 Sep                  |   Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.
+|1 Sep                  |   Deadline to drop classes and be eligible for a refund of Enrollment Fee and/or all applicable fees.
 |4 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
 |5 Sep                  |   Instructor Drop/Census: All drops must be submitted by Noon
 |27 Oct                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
@@ -40,7 +40,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 ## __Course outline and schedule__
 
-|Week|<div style="width:75px">Date</div>|Topics | Deadlines|
+|Week|<div style="width:75px">Week commence from</div>|Topics | Deadlines|
 |-|--|--|----|
 |1  |21 Aug |Data representation | Assignments due on 5 Feb |
 |2  |28 Aug  |Boolean Algebra | Assignments due on 12 Feb |
@@ -50,15 +50,15 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |6  |25 Sep  |The 80x86 instruction set | Assignments due on 12 Mar|
 |7  |2 Oct |Code optimizations| Assignments due on 19 Mar|
 |8  |9 Oct |Revision, __Midterm on 9 Oct__|
-|||__Spring break (27 Mar - 1 Apr) - No classes__|
-|9  |3 Apr  |Arithmetic and logical operations| Assignments due on 9 Apr|
-|10 |10 Apr |Control Structures | Assignments due on 16 Apr|
-|11 |17 Apr |Loops and Arrays | Assignments due on 23 Apr|
-|12 |24 Apr |Procedures and Functions | Assignments due on 30 Apr |
-|13 |1 May  |Procedures and Functions (contd.) | Assignments due on 7 May |
-|14 |8 May  |File Management | Assignments due on 14 May |
-|15 |15 May |Revision and project work | Project submission 26 May |
-|16 |22 May |__Final exam on 22 May__
+|9  |16 Oct  |Arithmetic and logical operations| Assignments due on 9 Apr|
+|10 |23 Oct |Control Structures | Assignments due on 16 Apr|
+|11 |30 Oct |Loops and Arrays | Assignments due on 23 Apr|
+|12 |6 Nov |Procedures and Functions | Assignments due on 30 Apr |
+|13 |13 Nov  |Procedures and Functions (contd.) | Assignments due on 7 May |
+|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
+|14 |27 Nov  |File Management | Assignments due on 14 May |
+|15 |4 Dec |Revision and project work | Project submission 26 May |
+|16 |11 Dec |__Final exam on 11 Dec__
 
 ## __Textbook__
 
