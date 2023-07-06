@@ -42,23 +42,23 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from</div>|Topics | Deadlines|
 |-|--|--|----|
-|1  |21 Aug |Data representation | Assignments due on 27 Aug |
+|1  |21 Aug  |Data representation | Assignments due on 27 Aug |
 |2  |28 Aug  |Boolean Algebra | Assignments due on 3 Sep |
-|3  |4 Sep  |System Organization | Assignments due on 10 Sep |
-|4  |11 Sep |Memory organization | Assignments due on 17 Sep |
-|5  |18 Sep |Variables and simple data structures in memory | Assignments Due on 24 Sep|
-|6  |25 Sep  |The 80x86 instruction set | Assignments due on 1 Oct|
-|7  |2 Oct |Code optimizations| Assignments due on 8 Oct|
-|8  |9 Oct |Revision, __Midterm on 9 Oct__|
-|9  |16 Oct  |Arithmetic and logical operations| Assignments due on 22 Oct|
-|10 |23 Oct |Control Structures | Assignments due on 29 Oct|
-|11 |30 Oct |Loops and Arrays | Assignments due on 5 Nov|
-|12 |6 Nov |Procedures and Functions | Assignments due on 12 Nov |
-|13 |13 Nov  |Procedures and Functions (contd.) | Assignments due on 19 Nov |
+|3  |4 Sep   |System Organization | Assignments due on 10 Sep |
+|4  |11 Sep  |Memory organization | Assignments due on 17 Sep |
+|5  |18 Sep  |Introduction to AL, variables and constants | Assignments Due on 24 Sep|
+|6  |25 Sep  |Arithmetic instructions | Assignments due on 1 Oct|
+|7  |2 Oct   |Logical instructions | Assignments due on 8 Oct|
+|8  |9 Oct   |__Midterm on 9 Oct__|
+|9  |16 Oct  |Condition instructions| Assignments due on 22 Oct|
+|10 |23 Oct  |Loops and Arrays | Assignments due on 29 Oct|
+|11 |30 Oct  |Procedures | Assignments due on 5 Nov|
+|12 |6 Nov   |Functions | Assignments due on 12 Nov |
+|13 |13 Nov  |File management | Assignments due on 19 Nov |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |File Management | Assignments due on 3 Nov |
-|15 |4 Dec |Revision and project work | Project submission 10 Dec |
-|16 |11 Dec |__Final exam on 11 Dec__
+|14 |27 Nov  |Project work| Assignments due on 3 Nov |
+|15 |4 Dec   |Revision and project work | Project submission 10 Dec |
+|16 |11 Dec  |__Final exam on 11 Dec__
 
 ## __Textbook__
 
@@ -73,10 +73,7 @@ I recommend following my notes and resources provided on the course site in Canv
 
 ## __Software and hardware resources__
 
-- VMware player to create virtual machines. Further details are in the canvas.
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
-- SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
-- Students may be eligible for emergency broadband internet discounts at Affordable Connectivity Program <https://www.fcc.gov/acp>
 
 ## __Grading scheme__
 
@@ -100,7 +97,7 @@ I recommend following my notes and resources provided on the course site in Canv
 
 ## __Late/due work__
 
-You must submit your coursework by the due date indicated on the Schedule of Assignments shown in Canvas. Some modules may require more time to complete than others. It is your responsibility to allocate the time needed to complete your work. Be sure to begin your work before the due date. Late work is accepted if submitted within 24 hours at the cost of a 50% reduction in the marks. In case the assignment is not submitted on time due to medical, health, or technical reasons, an email should be sent __within five working days__ after the due date. Please notify me using the email dkhan1010@gmail.com
+Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some modules may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. Only on-time work is accepted.
 
 ## __Attendance/Absences__
 
@@ -143,4 +140,4 @@ Academic Conduct policy may be removed from class by the faculty for the class m
 Campus Safety and Administrative Due Process posted on the District website at:
 <https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
 ____
-Last updated on Jan 2023
+Last updated on July 2023
