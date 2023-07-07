@@ -56,7 +56,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |12 |6 Nov   |Functions | Assignments due on 12 Nov |
 |13 |13 Nov  |File management | Assignments due on 19 Nov |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |Project work| Assignments due on 3 Nov |
+|14 |27 Nov  |Project work| |
 |15 |4 Dec   |Revision and project work | Project submission 10 Dec |
 |16 |11 Dec  |__Final exam on 11 Dec__
 
