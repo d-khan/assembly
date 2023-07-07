@@ -21,7 +21,7 @@
 
 |<div style="width:100px"></div> ||
 |:----------------------|:--------------|
-|21 Aug                 |   Spring 2023 Primary 16-Week Session Begins |
+|21 Aug                 |   Fall 2023 Primary 16-Week Session Begins |
 |1 Sep                  |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
 |1 Sep                  |   Deadline to drop classes and be eligible for a refund of Enrollment Fee and/or all applicable fees.
 |4 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
