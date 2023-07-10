@@ -118,7 +118,7 @@ section .text
 
 _start:
 		mov eax,[var1]
-		add ebx,[var2]
+		add eax,[var2]
 		mov dl,[var3]
 		mul dl
 		mov [var4],eax
@@ -135,10 +135,10 @@ segment .bss
 		var4 resb 1
 ```
 
-The following figure shows the value stored in $var4$, along with the register details. The `gdp` parameters are set accordingly to achieve the desired output. Before gdp, ensure the filename is assembled using a nasm assembler and must be error-free. Replace {filename} with the actual filename.
+The following figure shows the value stored in $var4$, along with the register details. The `gdp` parameters are set accordingly to achieve the desired output. Before gdb, ensure the filename is assembled using a nasm assembler and must be error-free. Replace {filename} with the actual filename.
 
 ```
-gdp {filename}
+gdb {filename}
 layout asm
 layout regs
 watch (int) var4
