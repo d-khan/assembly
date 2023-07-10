@@ -218,7 +218,7 @@ There are five basic forms of the define directive −
 | --------- | ------------------ | ------------------ |
 | DB        | Define Byte        | Allocates 1 byte   |
 | DW        | Define Word        | Allocates 2 bytes  |
-| DD        | Define Doubleworld | Allocates 4 bytes  |
+| DD        | Define Doubleword  | Allocates 4 bytes  |
 | DQ        | Define Quadword    | Allocates 8 bytes  |
 | DT        | Define Ten Bytes   | Allocates 10 bytes |
 
