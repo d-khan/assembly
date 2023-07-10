@@ -135,7 +135,7 @@ segment .bss
 		var4 resb 1
 ```
 
-The following figure shows the value stored in $var4$, along with the register details. The `gdp` parameters are set accordingly to achieve the desired output. Before gdb, ensure the filename is assembled using a nasm assembler and must be error-free. Replace {filename} with the actual filename.
+The following figure shows the value stored in $var4$, along with the register details. The `gdb` parameters are set accordingly to achieve the desired output. Before gdb, ensure the filename is assembled using a nasm assembler and must be error-free. Replace {filename} with the actual filename.
 
 ```
 gdb {filename}
