@@ -11,7 +11,7 @@ Let's explore some arithmetic instructions.
 
 The INC instruction is used for incrementing an operand by one. It works on a single operand that can be either in a register or in memory. The DEC instruction is used for decrementing an operand by one.
 
-``` assembly
+``` {assembly,attr.source='.numberLines'}
 section .text
     global _start
 
