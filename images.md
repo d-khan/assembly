@@ -29,8 +29,6 @@
 <img width="744" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/ab11aa6e-1ee2-4f4f-acda-1cb27d661ef9">
 <img width="459" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/4de3e670-7615-42f8-9bf8-743cbb490d07">
 
-<img width="637" alt="image" src="https://github.com/d-khan/assembly-solutions/assets/11669149/64d88b62-0f15-48cb-b452-1d8dc933d54a">
-
 <img width="654" alt="image" src="https://github.com/d-khan/assembly/assets/11669149/4f077205-547a-4a01-b970-b34be2524037">
 
 
