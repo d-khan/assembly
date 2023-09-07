@@ -173,7 +173,7 @@ The benefit of building circuits from logic gates, rather than directly from tra
 | $a+a=a$; $aa=a$     | Idempotent         | Duplicate values can be removed.                             |
 | $a.a=a$             | Idempotent         | Duplicate values can be removed.                             |
 | $(a')'=a$           | Involution         | $(0')' = (1)' = 0$<br/>$(1')' = (0)' = 1$                    |
-| $(a'+ab)=a'+b$      | Absorption law     |
+| $(a'+ab)=a'+b$      | Absorption law     |                                                              |
 | $(ab)'=a'+b'$       | DeMorgan's Law     |                                                              |
 | $(a+b)'=a'b'$       | DeMorgan's Law     |                                                              |
 
