@@ -160,10 +160,10 @@ The benefit of building circuits from logic gates, rather than directly from tra
 | ------------------- | ------------------ | ------------------------------------------------------------ |
 | $a(b+c)=ab+ac$      | Distributive (AND) | Same as multiplication in regular algebra                    |
 | $a+(bc)=(a+b)(a+c)$ | Distributive (OR)  | Different from regular algebra                               |
-| $a+a'=1$            | Complement (AND)   | (AND) Clearly one of a, a' must be 0   1 · 0 = 0 · 1 = 0     |
-| $aa'=1$             | Complement (OR)    | (OR) Clearly one of a, a' must be 1  1 + 0 = 0 + 1 = 1       |
-| $a.1=a$             | Identity (OR)      | (OR) Result of a + 0 is always a's value  *0* + 0 = *0*   *1* + 0 = *1* |
-| $a+0=a$             | Identity (AND)     | (AND) Result of a · 1 is always a's value   *0* · 1 = *0*  *1* · 1 = *1* |
+| $a+a'=1$            | Complement (OR)   | (AND) Clearly one of a, a' must be 0   1 + 0 = 1     |
+| $aa'=0$             | Complement (AND)    | (AND) Clearly one of a, a' must be 1  1 + 0 = 0 + 1 = 1       |
+| $a.1=a$             | Identity (AND)      | (OR) Result of a + 0 is always a's value  *0* + 0 = *0*   *1* + 0 = *1* |
+| $a+0=a$             | Identity (OR)     | (AND) Result of a · 1 is always a's value   *0* · 1 = *0*  *1* · 1 = *1* |
 | $ab=ba$             | Commutative (AND)  | Variable order does not matter. Good practice is to sort variables alphabetically. |
 | $ a+b=b+a $         | Commutative (OR)   | Variable order does not matter. Good practice is to sort variables alphabetically. |
 | $ab(c)=a(bc)$       | Associative        | Same as regular algebra                                      |
