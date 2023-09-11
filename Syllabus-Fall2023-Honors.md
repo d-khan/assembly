@@ -1,5 +1,4 @@
-# Syllabus (CISC-211 Computer Organization & Assembly Language)  
-Honors Contract
+# Syllabus (CISC-211 Computer Organization & Assembly Language) Honors Contract
 __This syllabus is for Honors Contract Students only__
 
 ## __Course information__
