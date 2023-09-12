@@ -1,6 +1,9 @@
 # Syllabus (CISC-211 Computer Organization & Assembly Language) Honors Contract
 __This syllabus is for Honors Contract Students only__
 
+## __Course description__
+
+
 ## __Course information__
 
 |                               |                                           |
@@ -91,10 +94,12 @@ I recommend following my notes and resources provided on the course site in Canv
 |Evaluation type|Out of 100|
 |:-|:-|
 |Weekly lab assignments|20|
+|Research work & meetings|15|
+|
 |Quizzes|10|
-|Mid term|30|
+|Mid term|20|
 |Project|10|
-|Final exam|30|
+|Final exam|20|
 
 ## __Late/due work__
 
