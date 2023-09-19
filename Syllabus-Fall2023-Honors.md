@@ -95,7 +95,6 @@ I recommend following my notes and resources provided on the course site in Canv
 |:-|:-|
 |Weekly lab assignments|20|
 |Research work & meetings|15|
-|
 |Quizzes|10|
 |Mid term|20|
 |Project|10|
