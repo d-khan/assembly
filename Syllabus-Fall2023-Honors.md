@@ -4,7 +4,7 @@ __This syllabus is for Honors Contract Students only__
 ## __Course description__
 This course is an introduction to the organization of modern digital computers and assembly language programming. Topics include language syntax, instruction set mnemonics, and segment, index, pointer, general purpose, and flag registers. A variety of memory addressing techniques are covered, as well as stack operations, particularly those associated with passing parameters to subroutine calls. Additional topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, linking, and printer and disk interfaces. This course is intended for students majoring in computer and information sciences.
 
-The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get connected with professionals in the field.
+The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
 
 ## __Course information__
 |                               |                                           |
