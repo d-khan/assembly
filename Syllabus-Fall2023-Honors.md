@@ -6,6 +6,10 @@ This course is an introduction to the organization of modern digital computers a
 
 The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
 
+## Student learning outcome
+- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
+- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
+
 ## __Course information__
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
