@@ -12,7 +12,7 @@ proc_name:
 ```
 
 ## Difference between a procedure and a function  
-A function that returns no value or returns a null value is sometimes called a procedure. Procedures usually modify their arguments and are a core part of procedural programming.
+A function that returns no value or returns a null value is sometimes called a procedure. On the contrary, functions return some values.
 
 ## Example code 1
 
