@@ -74,7 +74,9 @@ segment .bss
         res resb 1
 ```
 
-**Note: Run the code and see the results on the terminal. No need to run gdb**
+**Note: Run the code and see the results on the terminal. No need to run gdb**  
+**Draw an under-the-hood memory allocation table of the above code, similar to the provided sheet. Use gdb to get the memory address**  
+
 
 # Stacks
 
