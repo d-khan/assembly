@@ -44,6 +44,9 @@ stepi
 
 **Move the subprocedure below the _start: and verify if the code runs. Discuss the outcome with your classmates**
 
+### Critical analysis of the code in the context of memory allocations
+See provided sheet
+
 ## Example code 2
 
 In this example, two procedures are defined. The eax register takes an integer number and displays the result on the terminal. The eax register takes integer 65, save the result in the memory, move the res variable memory address to the ecx register, and then sends the output to the screen. Before sending the output to the screen, the ecx register contains the memory address of the res variable. Since eax, ebx, and edx registers are reserved for displaying data, only the ecx register contains the data to be displayed. As discussed before, when the numbers are displayed on the screen or entered from the keyboard, they are in ASCII form. The following example will print **A** on the terminal.
