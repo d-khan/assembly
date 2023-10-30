@@ -11,6 +11,9 @@ proc_name:
 	ret
 ```
 
+**Difference between a procedure and a function**
+A function that returns no value or returns a null value is sometimes called a procedure. Procedures usually modify their arguments and are a core part of procedural programming.
+
 ## Example code 1
 
 ``` assembly
