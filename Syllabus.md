@@ -44,22 +44,22 @@ Please use the Canvas Messaging System
 
 If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message using the Canvas Messaging System. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
-|Week|<div style="width:75px">Week commence from</div>|Topics | Hands-on activities | Deadlines|
-|-|--|--|----|
-|1  |21 Aug  |Data representation | Assignments due on 27 Aug |
-|2  |28 Aug  |Boolean Algebra | Assignments due on 3 Sep |
-|3  |4 Sep   |System Organization | Assignments due on 10 Sep |
-|4  |11 Sep  |Memory organization | Assignments due on 17 Sep |
-|5  |18 Sep  |Introduction to AL, variables and constants | Assignments Due on 24 Sep|
-|6  |25 Sep  |Arithmetic instructions | Assignments due on 1 Oct|
-|7  |2 Oct   |Logical instructions | Assignments due on 8 Oct|
-|8  |9 Oct   |__Midterm on 9 Oct__|
-|9  |16 Oct  |Condition instructions| Assignments due on 22 Oct|
-|10 |23 Oct  |Loops and Arrays | Assignments due on 29 Oct|
-|11 |30 Oct  |Procedures | Assignments due on 5 Nov|
-|12 |6 Nov   |Functions | Assignments due on 12 Nov |
-|13 |13 Nov  |File management | Assignments due on 19 Nov |
-|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |Project work| |
-|15 |4 Dec   |Revision and project work | Project submission 10 Dec |
-|16 |11 Dec  |__Final exam on 11 Dec__
+|Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
+|-|--|--|---|----|
+|1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
+|2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
+|3  |12 Feb   |System Organization | | 17 Feb |
+|4  |19 Feb  |Memory organization | Understanding Cache memory | 24 Feb |
+|5  |26 Feb  |Introduction to AL, variables and constants | Setting up AL environment and writing your first code | 2 Mar |
+|6  |4 Mar  |Arithmetic instructions | Assignments due on 1 Oct|
+|7  |11 Mar   |Logical instructions | Assignments due on 8 Oct|
+|8  |18 Mar   |__Midterm on 9 Oct__|
+|||__Spring break (25 - 29 Mar) - No classes__|
+|9  |1 Apr  |Condition instructions| Assignments due on 22 Oct|
+|10 |8 Apr  |Loops and Arrays | Assignments due on 29 Oct|
+|11 |15 Apr  |Procedures | Assignments due on 5 Nov|
+|12 |22 Apr  |Functions | Assignments due on 12 Nov |
+|13 |29 Apr  |File management | Assignments due on 19 Nov |
+|14 |6 May  |Project work| |
+|15 |13 May   |Revision and project work | Project submission 10 Dec |
+|16 |20 May  |__Final exam on 11 Dec__
