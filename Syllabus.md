@@ -63,3 +63,72 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |14 |6 May  |Project work| |
 |15 |13 May   |Revision and project work submission | 18 May |
 |16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
+
+## __Textbook__
+
+## __Grading scheme__
+
+|Grade|Percent|Description
+|-|-----|-|
+|A|>90|Work of genuinely superior quality.|
+|B|80-89|Passing performance falls approximately in the upper distribution of passing grades.|
+|C|71-79|Passing performance falls approximately in the center of the distribution of all passing grades.|
+|D|65-70|Passing performance falls approximately in the lower distribution of passing grades.|
+|F|<65|Failing performance that does not satisfy the basic requirements of the course and needs to be improved in significant ways.|
+
+## __Course evaluation schemes__
+
+|Evaluation type|Out of 100|
+|:-|:-|
+|Weekly lab assignments|20|
+|Quizzes* |10|
+|Mid term|30|
+|Project|10|
+|Final exam|30|
+
+$*$ There will be four surprise quizzes during scheduled class timings.
+
+## __Late/due work__
+
+Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. The late work is deducted 10% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
+
+## __Attendance/Absences__
+
+-  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
+-  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to absences (more than 75%).
+- __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
+- __(For inperson classes):__ The instructor will drop the student if a student is absent in the first two weeks.
+- Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
+
+## __Accommodating Students with Disabilities__
+
+Students with disabilities who may need academic accommodations should contact me as soon as possible.  You and I will work with the Disability Support Programs and Services (DSPS) department to identify your appropriate academic accommodations for this course. 
+
+> DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit the DSPS website at www.sdmiramar.edu/dsps.
+
+
+## __Undocumented & Immigrant Student Services__
+
+Undocumented and immigrant students are welcome in this class. As an educator, I strive to be an ally and provide a safe learning environment for you regardless of your immigration status. Your legal status should not be an obstacle to you in my classroom or to your educational success.
+The Miramar Dreamers Support Office provides programs and services to undocumented and immigrant students. The Dreamers staff can meet with you for one-on-one support sessions, connect you to financial aid and scholarship resources, provide information about how to earn money, and host weekly engagement activities. Every student who needs one gets a FREE immigration-related legal consultation with our partners at the Higher Education Legal Services, too!
+
+> Visit the Dreamers Support Office in the Student Services Building, room K1-304 (third floor), or online at <https://sdmiramar.edu/services/dreamers>. Schedule an appointment at <https://bit.ly/dreamerappt>.
+
+## __Honest Academic Conduct__
+
+You are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3, Honest Academic Conduct, will receive a grade of zero on the assignment in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.  
+
+Plagiarism — to take and pass off as one’s own work or ideas of another — is a form of academic dishonesty.
+Plagiarism is any one of the following: 
+- Verbatim copying without proper acknowledgment on term papers, homework or tests/exams;
+- Paraphrasing without proper acknowledgment;
+- Putting together a “patchwork” paper from diverse sources, without proper acknowledgment of those sources;
+- Unacknowledged appropriation of information or of someone else’s ideas.
+
+Acts of plagiarism will result in no credit awarded for the assignment; remedial instruction; academic or
+administrative sanctions; and/or other consequences. 
+
+> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
+<https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
+____
+Last updated on Jan 2024
