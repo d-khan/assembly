@@ -81,12 +81,10 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |Evaluation type|Out of 100|
 |:-|:-|
 |Weekly lab assignments|20|
-|Quizzes* |10|
+|Quizzes |10|
 |Mid term|30|
 |Project|10|
 |Final exam|30|
-
-$*$ There will be four surprise quizzes during scheduled class timings.
 
 ## __Late/due work__
 
