@@ -84,9 +84,7 @@ The following textbook is used for this course:
 ISBN-13: 9781718500099
 - Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux, Lulu or accessible online at bob.cs.sonoma.edu  
 
-## __Software and hardware resources__
-
-- Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
+I would like you to follow my notes and the resources provided on the course site on Canvas.
 
 ## __Grading scheme__
 
@@ -112,47 +110,45 @@ ISBN-13: 9781718500099
 
 ## __Late/due work__
 
-Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some modules may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. Only on-time work is accepted.
+Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. The late work is deducted 10% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
 
 ## __Attendance/Absences__
 
-- It is the student’s responsibility to drop all classes in which they are no longer participating __(for online classes)__.
-- It is the student’s responsibility to drop all classes in which they are no longer attending __(for on campus classes)__.
-- It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
-- Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class
-schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
+-  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
+-  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to absences (more than 75%).
+- __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
+- __(For inperson classes):__ The instructor will drop the student if a student is absent in the first two weeks.
+- Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
 
 ## __Accommodating Students with Disabilities__
 
-- Students with disabilities who may need academic accommodations are encouraged to discuss their authorized
-accommodations from Disability Support Programs and Services (DSPS) with their professors early in the semester so
-that accommodations may be implemented as soon as possible.
-- The faculty member will work with the DSPS Office to ensure that proper accommodations are made for each student.
-By law, it is up to the DSPS Office, through the interactive process with the student, to determine which
-accommodations are appropriate, not the instructor. This includes accommodations in a clinical setting.
-- Students that need evacuation assistance during campus emergencies should also meet with the instructor as soon as
-possible to ensure the health and safety of all students.
+Students with disabilities who may need academic accommodations should contact me as soon as possible.  You and I will work with the Disability Support Programs and Services (DSPS) department to identify your appropriate academic accommodations for this course. 
 
-> For more information, you may contact the DSPS Office on your campus or the website at
-<https://www.sdccd.edu/about/departments-and-offices/student-services-department/dsps/index.aspx> or refer to
-Administrative Procedure, AP 3105.1 Academic Accommodations and Disability Discrimination for Students with
-Disabilities.
+> DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit the DSPS website at www.sdmiramar.edu/dsps.
 
-## __Cheating/Plagiarism__
+## __Undocumented & Immigrant Student Services__
 
-Students are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in
-violation of Administrative Procedure 3100.3 Honest Academic Conduct, will receive a grade of zero on the assignment, quiz, or exam in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.
+Undocumented and immigrant students are welcome in this class. As an educator, I strive to be an ally and provide a safe learning environment for you regardless of your immigration status. Your legal status should not be an obstacle to you in my classroom or to your educational success.
+The Miramar Dreamers Support Office provides programs and services to undocumented and immigrant students. The Dreamers staff can meet with you for one-on-one support sessions, connect you to financial aid and scholarship resources, provide information about how to earn money, and host weekly engagement activities. Every student who needs one gets a FREE immigration-related legal consultation with our partners at the Higher Education Legal Services, too!
+
+> Visit the Dreamers Support Office in the Student Services Building, room K1-304 (third floor), or online at <https://sdmiramar.edu/services/dreamers>. Schedule an appointment at <https://bit.ly/dreamerappt>.
 
 ## __Honest Academic Conduct__
 
-- Students are expected to adhere to the Honest Academic Conduct policy at all times. Students who violate the Honest
-Academic Conduct policy may be removed from class by the faculty for the class meeting in which the behavior occurred, and the next class meeting.
-- __For online classes:__ Student access to class is removed for one week (5 instructional days).
-- Acceptance of make-up work during the removal will be decided by the instructor based on the incident.
-- Incidents involving removal of a student from class will be reported to the college disciplinary officer for follow up.
+You are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3, Honest Academic Conduct, will receive a grade of zero on the assignment in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.  
 
-> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities,
-Campus Safety and Administrative Due Process posted on the District website at:
+Plagiarism — to take and pass off as one’s own work or ideas of another — is a form of academic dishonesty.
+Plagiarism is any one of the following: 
+- Verbatim copying without proper acknowledgment on term papers, homework or tests/exams;
+- Paraphrasing without proper acknowledgment;
+- Putting together a “patchwork” paper from diverse sources, without proper acknowledgment of those sources;
+- Unacknowledged appropriation of information or of someone else’s ideas.
+
+Acts of plagiarism will result in no credit awarded for the assignment; remedial instruction; academic or
+administrative sanctions; and/or other consequences. 
+
+> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
 <https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
 ____
-Last updated on July 2023
+Last updated on Jan 2024
+
