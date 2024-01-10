@@ -11,74 +11,78 @@ The students enrolled in the Honors Contract are expected to do independent rese
 - Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
 
 ## __Course information__
+
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
-|   Year                        |   Fall 2023-24|
-|   Class Number                |   40979|
-|   Course ID                   |   069906|
-|   Section                     |   3005|
-|   Location                    |   Miramar College, M building, Room M-102|
-|   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm|
+|   Year                        |   Spring 2024|
+|   Class Number                |   54099|
+|   Course ID                   |   |
+|   Section                     |   3001|
+|   Location                    |   Miramar College, M building, Room M-103|
+|   In-person class schedule    |   Mon & Wed 9:35 am – 12:40 pm|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 21 – Dec 16 (16 weeks)|
+|   Duration                    |   Jan 29 – May 25 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Wed 12:35-1:35 pm (Room M-102)|
+|   Office hours                |   Wed 12:35-1:35 pm (Room M-103)|
 |   Email                       |   Use Canvas Messaging to email me  |
 
 ## __Important dates/deadline__
 
-|<div style="width:100px"></div> ||
+|<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|21 Aug                 |   Fall 2023 Primary 16-Week Session Begins |
-|1 Sep                  |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
-|1 Sep                  |   Deadline to drop classes and be eligible for a refund of Enrollment Fee and/or all applicable fees.
-|4 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
-|5 Sep                  |   Instructor Drop/Census: All drops must be submitted by Noon
-|27 Oct                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|10 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
-|23-24 Nov              |   __Thanksgiving (CAMPUS CLOSED)__ |
-|16 Dec                 |   Session end|
-|5 Jan 2024             | __Grades:__ Deadline for instructors to submit final grades|
+|29 Jan                 |   Spring 2024 16-Week Session Begins |
+|9 Feb                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
+|                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
+|12 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|16-19 Feb              |   __President's Weekend (CAMPUS CLOSED)__ |
+|25-29 Mar              |   __Spring Break__
+|29 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
+|12 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|25 May                 |   Session end|
+|27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
+|31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
 
 ## __Instructor communication policy__
 
-The best way to reach me is via my email __Canvas Messaging System__  
+Please use the Canvas Messaging System  
 
-If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
+If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message using the Canvas Messaging System. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
 ## __Course outline and schedule__
 
-|Week|<div style="width:75px">Week commence from</div>|Topics | Deadlines|
-|-|--|--|----|
-|1  |21 Aug  |Data representation | Assignments due on 27 Aug |
-|2  |28 Aug  |Boolean Algebra | Assignments due on 3 Sep |
-|3  |4 Sep   |System Organization | Assignments due on 10 Sep |
-|4  |11 Sep  |Memory organization | Assignments due on 17 Sep |
-|5  |18 Sep  |Introduction to AL, variables and constants | Assignments Due on 24 Sep|
-|6  |25 Sep  |Arithmetic instructions | Assignments due on 1 Oct|
-|7  |2 Oct   |Logical instructions | Assignments due on 8 Oct|
-|8  |9 Oct   |__Midterm on 9 Oct__|
-|9  |16 Oct  |Condition instructions| Assignments due on 22 Oct|
-|10 |23 Oct  |Loops and Arrays | Assignments due on 29 Oct|
-|11 |30 Oct  |Procedures | Assignments due on 5 Nov|
-|12 |6 Nov   |Functions | Assignments due on 12 Nov |
-|13 |13 Nov  |File management | Assignments due on 19 Nov |
-|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |Project work| |
-|15 |4 Dec   |Revision and project work | Project submission 10 Dec |
-|16 |11 Dec  |__Final exam on 11 Dec__
+|Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
+|-|--|--|---|----|
+|1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
+|2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
+|3  |12 Feb   |System Organization | | 17 Feb |
+|4  |19 Feb  |Memory organization | Understanding Cache memory | 24 Feb |
+|   |        |__Quiz 1 on Mon 19 Feb__| |
+|5  |26 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 2 Mar |
+|6  |4 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 9 Mar |
+|7  |11 Mar   |Logical instructions | Apply logical instructions using Assembly | 16 Mar |
+|   |        |__Quiz 2 on Mon 11 Mar__| |
+|8  |18 Mar   |__Midterm on Mon 18 Mar at 9:40 am__|
+|||__Spring break (25 - 29 Mar) - No classes__|
+|9  |1 Apr  |Condition instructions| Apply conditional instructions using Assembly |6 Apr|
+|10 |8 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 13 Apr|
+|11 |15 Apr  |Procedures | Use procedures to optimize Assembly code | 20 Apr|
+|   |        |__Quiz 3 on Mon 15 Apr__| |
+|12 |22 Apr  |Functions | Use functions to optimize Assembly code | 27 Apr |
+|13 |29 Apr  |File management | Perform file read and write operations | 4 May |
+|   |        |__Quiz 4 on Mon 29 Apr__| |
+|14 |6 May  |Project work| |
+|15 |13 May   |Revision and project work submission | 18 May |
+|16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
 
 ## __Textbook__
 
-I recommend following my notes and resources provided on the course site in Canvas. The following resources are for your reference only.
+The following textbook is used for this course:
 
-1. Harris, Sarah L., and David Money Harris. Digital Design and Computer Architecture: ARM Edition, 1st ed. Morgan Kaufmann, 2016, ISBN: 9780128000564
-2. Hohl, William, and Christopher Hinds. ARM Assembly Language: Fundamentals and Techniques, 2nd ed. CRC Press, 2015, ISBN: 9781482229851
-3. Irvine, Kip R. Assembly Language for x86 Processors, 7th ed. Pearson, 2014, ISBN: 9780133769401
-4. Paul, Richard. SPARC Architecture, Assembly Language Programming, and C, 2nd ed. Pearson, 1999, ISBN: 9780130255969
-5. Stallings, William. Computer Organization and Architecture, 10th ed. Pearson, 2016, ISBN: 9780134101613
-6. Plantz, Robert G. Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux, Lulu or accessible online at bob.cs.sonoma.edu, 07-13-2016
+- Introduction to Computer Organization, An Under the Hood Look at Hardware and x86-64 Assembly, by Robert G. Plantz, January 2022,
+ISBN-13: 9781718500099
+- Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux, Lulu or accessible online at bob.cs.sonoma.edu  
 
 ## __Software and hardware resources__
 
