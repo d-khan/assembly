@@ -50,17 +50,20 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
 |3  |12 Feb   |System Organization | | 17 Feb |
 |4  |19 Feb  |Memory organization | Understanding Cache memory | 24 Feb |
-|   |        |__Quiz 1__| |
+|   |        |__Quiz 1 on Mon 19 Feb__| |
 |5  |26 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 2 Mar |
 |6  |4 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 9 Mar |
 |7  |11 Mar   |Logical instructions | Apply logical instructions using Assembly | 16 Mar |
+|   |        |__Quiz 2 on Mon 11 Mar__| |
 |8  |18 Mar   |__Midterm on Mon 18 Mar at 9:40 am__|
 |||__Spring break (25 - 29 Mar) - No classes__|
 |9  |1 Apr  |Condition instructions| Apply conditional instructions using Assembly |6 Apr|
 |10 |8 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 13 Apr|
 |11 |15 Apr  |Procedures | Use procedures to optimize Assembly code | 20 Apr|
+|   |        |__Quiz 3 on Mon 15 Apr__| |
 |12 |22 Apr  |Functions | Use functions to optimize Assembly code | 27 Apr |
 |13 |29 Apr  |File management | Perform file read and write operations | 4 May |
+|   |        |__Quiz 4 on Mon 29 Apr__| |
 |14 |6 May  |Project work| |
 |15 |13 May   |Revision and project work submission | 18 May |
 |16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
