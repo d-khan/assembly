@@ -1,5 +1,12 @@
 # Syllabus (CISC-211 Computer Organization & Assembly Language)
 
+## __Course description__
+This course is an introduction to the organization of modern digital computers and assembly language programming. Topics include language syntax, instruction set mnemonics, and segment, index, pointer, general purpose, and flag registers. A variety of memory addressing techniques are covered, as well as stack operations, particularly those associated with passing parameters to subroutine calls. Additional topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, linking, and printer and disk interfaces. This course is intended for students majoring in computer and information sciences.
+
+## Student learning outcomes
+- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
+- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
+
 ## __Course information__
 
 |                               |                                           |
@@ -17,9 +24,6 @@
 |   Office hours                |   Wed 12:35-1:35 pm (Room M-103)|
 |   Email                       |   Use Canvas Messaging to email me  |
 
-## Student learning outcomes
-- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
-- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
 
 ## __Important dates/deadline__
 
