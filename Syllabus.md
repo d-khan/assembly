@@ -72,7 +72,14 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |15 |13 May   |Revision and project work submission | 18 May |
 |16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
 
-## __Textbook__
+## __Textbook__  
+The following textbook is used for this course:
+
+- Introduction to Computer Organization, An Under the Hood Look at Hardware and x86-64 Assembly, by Robert G. Plantz, January 2022,
+ISBN-13: 9781718500099
+- Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux, Lulu or accessible online at bob.cs.sonoma.edu  
+
+I would like you to follow my notes and the resources provided on the course site on Canvas.
 
 ## __Grading scheme__
 
