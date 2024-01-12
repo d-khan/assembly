@@ -13,8 +13,7 @@ This course is an introduction to the organization of modern digital computers a
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
 |   Year                        |   Spring 2024|
-|   Class Number                |   54099|
-|   Course ID                   |   |
+|   Class ID                    |   54099|
 |   Section                     |   3001|
 |   Location                    |   Miramar College, M building, Room M-103|
 |   In-person class schedule    |   Mon & Wed 9:35 am – 12:40 pm|
