@@ -148,6 +148,14 @@ administrative sanctions; and/or other consequences.
 
 > The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
 <https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
+
+## __Sustainability__
+Miramar College is committed to sustainability in our classrooms and on campus. To minimize paper use, please consider whether a document can be shared digitally rather than printed. When a document must be printed, decrease margins to 0.8” and print on both sides of the paper.  
+ 
+You are encouraged to bring reusable drink containers to school (and fill them at the water dispensers located around campus). For single-use packaging, please use the recycle bins for plastics, paper, cans, and cardboard.  
+ 
+Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
+
 ____
 Last updated on Jan 2024
 
