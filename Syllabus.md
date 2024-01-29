@@ -70,7 +70,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |13 |29 Apr  |File management | Perform file read and write operations | 4 May |
 |   |        |__Quiz 4 on Mon 29 Apr__| |
 |14 |6 May  |Project work| |
-|15 |13 May   |Revision and project work submission | 18 May |
+|15 |13 May   |Revision and project work submission | | 18 May |
 |16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
 
 ## __Textbook__  
