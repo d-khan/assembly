@@ -47,6 +47,8 @@ Please use the Canvas Messaging System
 
 If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message using the Canvas Messaging System. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
+## __Course outline and schedule__
+
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
 |1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
