@@ -1,7 +1,7 @@
 # Syllabus (CISC-211 Computer Organization & Assembly Language) Honors Contract
 __This syllabus is for Honors Contract Students only__
 
-## __Course description__
+## Course description
 This course is an introduction to the organization of modern digital computers and assembly language programming. Topics include language syntax, instruction set mnemonics, and segment, index, pointer, general purpose, and flag registers. A variety of memory addressing techniques are covered, as well as stack operations, particularly those associated with passing parameters to subroutine calls. Additional topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, linking, and printer and disk interfaces. This course is intended for students majoring in computer and information sciences.
 
 The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
@@ -10,7 +10,7 @@ The students enrolled in the Honors Contract are expected to do independent rese
 - Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
 - Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
 
-## __Course information__
+## Course information
 
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
@@ -27,7 +27,7 @@ The students enrolled in the Honors Contract are expected to do independent rese
 |                               |   Mon & Wed 8:30 - 9:30 am in Zoom (Meeting ID: 835 8008 1648)|
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
-## __Important dates/deadline__
+## Important dates/deadline
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
@@ -44,13 +44,13 @@ The students enrolled in the Honors Contract are expected to do independent rese
 |27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
 |31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
 
-## __Instructor communication policy__
+## Instructor communication policy
 
 Please use the Canvas Messaging System  
 
 If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message using the Canvas Messaging System. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
-## __Course outline and schedule__
+## Course outline and schedule
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
@@ -76,7 +76,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |15 |13 May   |Revision and project work submission | 18 May |
 |16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
 
-## __Textbook__
+## Textbook
 
 The following textbook is used for this course:
 
@@ -86,7 +86,7 @@ ISBN-13: 9781718500099
 
 I would like you to follow my notes and the resources provided on the course site on Canvas.
 
-## __Grading scheme__
+## Grading scheme
 
 |Grade|Percent|Description
 |-|-----|-|
@@ -96,7 +96,7 @@ I would like you to follow my notes and the resources provided on the course sit
 |D|65-70|Passing performance falls approximately in the lower distribution of passing grades.|
 |F|<65|Failing performance that does not satisfy the basic requirements of the course and needs to be improved in significant ways.|
 
-## __Course evaluation schemes__
+## Course evaluation schemes
 
 |Evaluation type|Out of 100|
 |:-|:-|
@@ -108,11 +108,11 @@ I would like you to follow my notes and the resources provided on the course sit
 |Project|10|
 |Final exam|20|
 
-## __Late/due work__
+## Late/due work
 
 Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. The late work is deducted 25% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
 
-## __Attendance/Absences__
+## Attendance/Absences
 
 -  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
 -  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
@@ -120,37 +120,34 @@ Please submit your coursework by the due date. The assignment deadlines are post
 - __(For inperson classes):__ The instructor will drop the student if a student is absent in the first two weeks.
 - Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
 
-## __Accommodating Students with Disabilities__
+## Accommodating Students with Disabilities
 
 Ensuring the accessibility of this course to students with disabilities is important to me. I have made every effort to make this course accessible; however, if you encounter a problem accessing anything in the course, please contact me immediately. Students who have academic accommodation letters should send them to me as soon as possible so that I am able to provide the accommodation in a timely manner. Students with disabilities who are requesting accommodation for the first time should email me and should contact the Disability Support Programs and Services (DSPS) office to initiate the accommodation request process.
 
 > DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit the DSPS website at www.sdmiramar.edu/dsps.
 
-## __Undocumented & Immigrant Student Services__
+## Undocumented & Immigrant Student Services
 
 Undocumented and immigrant students are welcome in this class. As an educator, I strive to be an ally and provide a safe learning environment for you regardless of your immigration status. Your legal status should not be an obstacle to you in my classroom or to your educational success.
 The Miramar Dreamers Support Office provides programs and services to undocumented and immigrant students. The Dreamers staff can meet with you for one-on-one support sessions, connect you to financial aid and scholarship resources, provide information about how to earn money, and host weekly engagement activities. Every student who needs one gets a FREE immigration-related legal consultation with our partners at the Higher Education Legal Services, too!
 
 > Visit the Dreamers Support Office in the Student Services Building, room K1-304 (third floor), or online at <https://sdmiramar.edu/services/dreamers>. Schedule an appointment at <https://bit.ly/dreamerappt>.
 
-## __Honest Academic Conduct__
+## Cheating/Plagiarism
+Students are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3 Honest Academic Conduct, will receive a grade of zero on the assignment, quiz, or exam in question and may be referred for disciplinary action in accordance with Administrative Procedure 5520, Student Disciplinary Procedures.
 
-You are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3, Honest Academic Conduct, will receive a grade of zero on the assignment in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.  
+## Honest Academic Conduct
 
-Plagiarism — to take and pass off as one’s own work or ideas of another — is a form of academic dishonesty.
-Plagiarism is any one of the following: 
-- Verbatim copying without proper acknowledgment on term papers, homework or tests/exams;
-- Paraphrasing without proper acknowledgment;
-- Putting together a “patchwork” paper from diverse sources, without proper acknowledgment of those sources;
-- Unacknowledged appropriation of information or of someone else’s ideas.
+Students are expected to adhere to the Honest Academic Conduct policy at all times. Students who violate the Honest Academic Conduct policy may be removed from class by the faculty for the class meeting in which the behavior occurred and the next class meeting.
+- For online classes: Student access to class is removed for one week (5 instructional days).
 
-Acts of plagiarism will result in no credit awarded for the assignment; remedial instruction; academic or
-administrative sanctions; and/or other consequences. 
+No make-up work will be accepted during the removal.
 
 > The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
-<https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
+<https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>
 
-## __Sustainability__
+## Sustainability
+
 Miramar College is committed to sustainability in our classrooms and on campus. To minimize paper use, please consider whether a document can be shared digitally rather than printed. When a document must be printed, decrease margins to 0.8” and print on both sides of the paper.  
  
 You are encouraged to bring reusable drink containers to school (and fill them at the water dispensers located around campus). For single-use packaging, please use the recycle bins for plastics, paper, cans, and cardboard.  
