@@ -110,7 +110,7 @@ Please submit your coursework by the due date. The assignment deadlines are post
 ## __Attendance/Absences__
 
 -  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
--  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to absences (more than 75%).
+-  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
 - __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
 - __(For inperson classes):__ The instructor will drop the student if a student is absent in the first two weeks.
 - Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
