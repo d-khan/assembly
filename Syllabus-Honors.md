@@ -57,9 +57,9 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
 |2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
 |3  |12 Feb   |Memory organization | Understanding Cache memory | 17 Feb |
-|4  |19 Feb |
-|   |        |__Quiz 1 on Wed 21 Feb__| |
+|4-5 |19 Feb |
 |4-5  |26 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 2 Mar |
+|   |        |__Quiz 1 on Wed 21 Feb__| |
 |6  |4 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 9 Mar |
 |7  |11 Mar   |Logical instructions | Apply logical instructions using Assembly | 16 Mar |
 |   |        |__Quiz 2 on Mon 11 Mar__| |
