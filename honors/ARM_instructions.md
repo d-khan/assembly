@@ -10,7 +10,7 @@ Perform the following tasks:
 3. Based on your research, will you be able to quantify the efficiency of running an assembly code on Intel & ARM processors?  
 
 ## Prerequisite
-- Arithmetic instructions
+- [Lecture on arithmetic instructions](https://htmlpreview.github.io/?https://github.com/d-khan/assembly/blob/main/arithmetic-instructions/Lecture.html)
 - [Creating repository - quick guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
