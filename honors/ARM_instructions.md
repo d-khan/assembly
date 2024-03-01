@@ -3,6 +3,11 @@
 ## Objectives
 Writing code in assembly language on ARM processors
 
+## Prerequisite
+- [Lecture on arithmetic instructions](https://htmlpreview.github.io/?https://github.com/d-khan/assembly/blob/main/arithmetic-instructions/Lecture.html)
+- [Creating repository - quick guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Tasks
 Perform the following tasks:  
 1. Research and find out how different assembly language is for ARM processors compared to Intel processors.
@@ -34,10 +39,6 @@ segment .bss
     var4 resb 1
 ```
 
-## Prerequisite
-- [Lecture on arithmetic instructions](https://htmlpreview.github.io/?https://github.com/d-khan/assembly/blob/main/arithmetic-instructions/Lecture.html)
-- [Creating repository - quick guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
-- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## What do you think I should submit?
 1. Share the source code and write down the commands used to make the source code executable.  
