@@ -1,4 +1,7 @@
-# Calculating mean, variance and standard deviation
+# Calculating mean, variance and standard deviation using assembly
+
+## Formulas
+
 
 
 |Name|score|
