@@ -21,7 +21,7 @@ Selection population
 
 # Convert the following
 - Convert 575 decimal into binary and hexadecimal
-- Conver 0x80 into binary
+- Convert 0x80 into binary
 
 # Represent the following into negative numbers
 - Convert -10 into binary using 1's and 2's complements
