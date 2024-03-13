@@ -1,5 +1,7 @@
 # Calculate population standard deviation using assembly language
 
+__This is a group activity (2 members per group)__
+
 ## Formulas
 
 ### Standard deviation
