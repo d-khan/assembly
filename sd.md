@@ -44,4 +44,18 @@ section .data
     result resb 1
 ```
 
+# Transfer the bits into the Cache memory
+- 10111
+- 10000
+- 11101
+
+|Index|V|Tag|Data|
+|-----|-|---|-----|
+|-----|-|---|-----|
+|-----|-|---|-----|
+|-----|-|---|-----|
+|-----|-|---|-----|
+
+
+
 
