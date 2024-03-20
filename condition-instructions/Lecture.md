@@ -101,7 +101,7 @@ label:
         int 0x80
 ```
 
-### Generate integer numbers using a condition instruction and print the corresponding ASCII character on the screen
+### Generate integer numbers using a condition instruction and print the corresponding ASCII character on the screen (from 0 - 127)
 ```assembly
 section .text
         global _start
@@ -109,7 +109,7 @@ section .text
 _start:
         mov eax, 0        ;starting from 0
 
-_start:
+increase
         mov [temp], 0
         push eax        ;push eax value
 
