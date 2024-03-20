@@ -110,7 +110,7 @@ _start:
         mov eax, 0        ;starting from 0
 
 increase
-        mov [temp], 0
+        mov [tmp], 0
         push eax        ;push eax value
 
         mov eax, 4
