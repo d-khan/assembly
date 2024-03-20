@@ -101,6 +101,47 @@ label:
         int 0x80
 ```
 
+### Generate integer numbers using a condition instruction and print the corresponding ASCII character on the screen
+```assembly
+section .text
+        global _start
+
+_start:
+        mov eax, 0        ;starting from 0
+
+_start:
+        mov [temp], 0
+        push eax        ;push eax value
+
+        mov eax, 4
+        mov ebx, 1
+        mov ecx, tmp
+        mov edx, 1
+        int 0x80
+
+        ;the following code add extra line
+        mov eax, 4
+        mov ebx, 1
+        mov ecx, space
+        mov edx, 1
+        int 0x80
+
+        pop eax        ;restore eax value
+        inc eax
+        cmp eax, 127        ;end number
+        jl increase
+
+        mov eax, 1
+        int 0x80
+
+segment .bss
+        tmp resb 1
+
+section .data
+        space dd 10        ;in ASCII, the new line is decimal 10
+```
+ 
+
 ### Example code - largest number
 
 The following code finds the largest number.
