@@ -109,7 +109,7 @@ section .text
 _start:
         mov eax, 0        ;starting from 0
 
-increase
+increase:
         mov [tmp], 0
         push eax        ;push eax value
 
