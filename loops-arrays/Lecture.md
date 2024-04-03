@@ -30,7 +30,7 @@ section .text
 _start:
         mov ecx,10	;ecx is a counter register
         label:
-        inc ecx
+        dec ecx
         loop label
 
         mov eax,1
