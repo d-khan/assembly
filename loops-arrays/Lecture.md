@@ -52,7 +52,7 @@ section .text
         global _start
 
 _start:
-        mov eax,3       ;array length
+        mov eax,2       ;array length (0-2)
         mov ebx,0       ;initializing  ebx 0
         mov ecx,array   ;move array's address from the memory to the register
         								;the array address is equal to the address of 
