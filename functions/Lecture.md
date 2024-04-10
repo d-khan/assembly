@@ -115,7 +115,6 @@ _start:
      push    98
      call    _foobar
 
-     mov     ebx, 0
      mov     eax, 1
      int     0x80
 
