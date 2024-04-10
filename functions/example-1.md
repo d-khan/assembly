@@ -12,16 +12,16 @@ _foobar:
         mov eax, DWORD[ebp+8]    ;this should have 20 
         mov ebx, DWORD[ebp+12]   ;this should have 10
         add eax,ebx  ; alternatively lea eax, [eax, ebx]
-
+        mov [result], eax       ;result is a global variable here
+        leave
+        ret
 
 _start:
         push DWORD[num1]
         push DWORD[num2]
         call _foobar
-
         mov eax, 1
         int 0x80
-
 
 section .data
         num1 dd 10
@@ -31,7 +31,3 @@ section .data
 segment .bss
   result resb 1
 ```
-
-        mov [result], eax       ;result is a global variable here
-        leave
-                                    
