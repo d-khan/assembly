@@ -56,8 +56,10 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |   |        | __Midterm on Fri 12 Jul__ |
 |5  | 15 Jul | Condition instructions, loops and arrays | Apply condition instructions, loops and arrays in Assembly Language | 20 Jul |
 |6  | 22 Jul | Procedures and functions | Use procedures and functions to optimize an assembly code | 27 Jul |
+|   |        |__Quiz 3 on Mon 22 Jul__| |
 |7  | 29 Jul | File management & Project | Perform file read and write operations | 3 Aug |
-|8  | 5 Aug  | __Final exam on Fri 9 Aug__ | |
+|8  | 5 Aug  | __Quiz 4 on Mon 5 Aug__ | |
+|   |        | __Final exam on Fri 9 Aug__ | |
 |   |        | __Project submission on Sat 10 Aug__ | |
 
 
