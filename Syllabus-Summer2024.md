@@ -50,13 +50,13 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |-|--|--|---|----|
 |1 | 17 Jun | Data representation and boolean algebra | a) Encryption/decryption using logical gates, b) Simplify equations using boolean algebra | 22 Jun |
 |2 | 24 Jun | Memory organization, introduction to Assembly Language, variables and constants | a) Understanding cache memory, b) Setting up a programming environment and writing your first code | 29 Jun |
-|   |        |__Quiz 1 on Fri 28 Jun__| |
+|   |        |__Quiz 1 on Sat 29 Jun__| |
 |3  | 1 Jul  | Arithmetic and logical instructions | Apply arithmetic and logical instructions in Assembly Language | 6 Jul |
 |4  | 8 Jul  | __Quiz 2 on Mon 8 Jul__ |
 |   |        | __Midterm on Fri 12 Jul__ |
 |5  | 15 Jul | Condition instructions, loops and arrays | Apply condition instructions, loops and arrays in Assembly Language | 20 Jul |
 |6  | 22 Jul | Procedures and functions | Use procedures and functions to optimize an assembly code | 27 Jul |
-|   |        |__Quiz 3 on Mon 22 Jul__| |
+|   |        |__Quiz 3 on Sat 27 Jul__| |
 |7  | 29 Jul | File management & Project | Perform file read and write operations | 3 Aug |
 |8  | 5 Aug  | __Quiz 4 on Mon 5 Aug__ | |
 |   |        | __Final exam on Fri 9 Aug__ | |
