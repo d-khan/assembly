@@ -53,7 +53,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |   |        |__Quiz 1 on Sat 29 Jun__| |
 |3  | 1 Jul  | Arithmetic and logical instructions | Apply arithmetic and logical instructions using Assembly Language | 6 Jul |
 |4  | 8 Jul  | __Quiz 2 on Mon 8 Jul__|
-|   |        | __Midterm on Mon 12 Jul __|
+|   |        | __Midterm on Mon 12 Jul__|
 
 
 
