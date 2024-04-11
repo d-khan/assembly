@@ -1,3 +1,5 @@
+# Compile and link script
+
 ```assembly
 #!/bin/bash
 nasm -f elf ./$1.asm
