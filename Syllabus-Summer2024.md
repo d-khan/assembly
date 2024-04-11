@@ -62,31 +62,6 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |   |        | __Final exam on Fri 9 Aug__ | |
 |   |        | __Project submission on Sat 10 Aug__ | |
 
-
-
-
-
-|1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
-|2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
-|3  |12 Feb   |Memory organization | Understanding Cache memory | 17 Feb |
-|4-5|19 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 2 Mar |
-|   |        |__Quiz 1 on Wed 21 Feb__| |
-|6  |4 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 9 Mar |
-|7  |11 Mar   |Logical instructions | Apply logical instructions using Assembly | 16 Mar |
-|   |        |__Quiz 2 on Mon 11 Mar__| |
-|8  |18 Mar   |__Midterm on Mon 18 Mar at 9:40 am__|
-|||__Spring break (25 - 29 Mar) - No classes__|
-|9  |1 Apr  |Condition instructions| Apply conditional instructions using Assembly |6 Apr|
-|10 |8 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 13 Apr|
-|11 |15 Apr  |Procedures | Use procedures to optimize Assembly code | 20 Apr|
-|   |        |__Quiz 3 on Mon 15 Apr__| |
-|12 |22 Apr  |Functions | Use functions to optimize Assembly code | 27 Apr |
-|13 |29 Apr  |File management | Perform file read and write operations | 4 May |
-|   |        |__Quiz 4 on Mon 29 Apr__| |
-|14 |6 May  |Project work| |
-|15 |13 May   |Revision and project work submission | | 18 May |
-|16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
-
 ## Textbook  
 The following textbook is used for this course:
 
@@ -163,4 +138,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Jan 2024
+Last updated on Apr 2024
