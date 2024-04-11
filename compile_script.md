@@ -1,5 +1,7 @@
 # Compile and link script
 
+Copy the following code:
+
 ```assembly
 #!/bin/bash
 nasm -f elf ./$1.asm
