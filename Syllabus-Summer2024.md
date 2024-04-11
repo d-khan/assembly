@@ -50,6 +50,8 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |-|--|--|---|----|
 |1 | 17 Jun | Data representation and boolean algebra | a) Encryption/decryption using logical gates, b) Simplify equations using boolean algebra | 22 Jun |
 |2 | 24 Jun | Memory organization, introduction to Assembly Language, variables and constants | a) Understanding cache memory, b) Setting up a programming environment and writing your first code | 29 Jun |
+|   |        |__Quiz 1 on Sat 29 Jun__| |
+
 
 
 
