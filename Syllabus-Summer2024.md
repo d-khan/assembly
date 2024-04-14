@@ -28,15 +28,15 @@ This course is an introduction to the organization of modern digital computers a
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
 |17 Jun                 |   Summer 2024 8-Week Session Begins |
-|xxxxx                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|26 Jun                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|xxxxxx                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|27 Jun                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
 |19 Jun                 |   __Juneteenth Holiday (CAMPUS CLOSED)__ |
 |4 Jul                  |   __Independence Day Holiday__
-|xxxxxxx                |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|19 Jul                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
 |10 Aug                 |   Session ends|
-|xxxxxx                 |   __Grades:__ Deadline for instructors to submit final grades|
+|16 Aug                 |   __Grades:__ Deadline for instructors to submit final grades|
 
 ## Instructor communication policy
 
