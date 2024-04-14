@@ -25,7 +25,7 @@ This course is an introduction to the organization of modern digital computers a
 
 ## Important dates/deadline
 
-|<div style="width1000:px"></div> ||
+|<div style="width300:px"></div> ||
 |:----------------------|:--------------|
 |17 Jun                 |   Summer 2024 8-Week Session Begins |
 |26 Jun                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
