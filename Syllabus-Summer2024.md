@@ -33,7 +33,7 @@ This course is an introduction to the organization of modern digital computers a
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
 |27 Jun                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
 |19 Jun                 |   __Juneteenth Holiday (CAMPUS CLOSED)__ |
-|4 Jul                  |   __Independence Day Holiday (CAMPUS CLOSED) __|
+|4 Jul                  |   __Independence Day Holiday (CAMPUS CLOSED)__|
 |19 Jul                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
 |10 Aug                 |   Session ends|
 |16 Aug                 |   __Grades:__ Deadline for instructors to submit final grades|
