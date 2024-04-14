@@ -8,6 +8,7 @@ This course is an introduction to the organization of modern digital computers a
 - Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
 
 ## Course information
+|||
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
 |   Year                        |   Summer 2024|
