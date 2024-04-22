@@ -1,4 +1,4 @@
-# Arrays - Honors contract
+# Arrays - Challenge activity
 
 ## Task
 You are a data analyst for a company that sells residential computers. The manager shared with you a dataset of the year 2023 sales.
