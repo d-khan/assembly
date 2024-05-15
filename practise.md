@@ -5,7 +5,7 @@
 - Create a function and pass an array as an argument. You might have to do some research. The function should return the max value of the array.
 
 # Implement Bubble sort - pseudocode
-> Use atleast 5 elements array
+> Use atleast 5 random integers
 ```
 procedure bubble_sort(array : list of sortable items, n : length of list)
     do
