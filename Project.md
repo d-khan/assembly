@@ -92,4 +92,4 @@ The deadlines are posted on the Syllabus as well as on Canvas.
 
 ------
 
-Last updated: May 2023 by Dr. Danish Khan. 
+Last updated: May 2024 by Dr. Danish Khan. 
