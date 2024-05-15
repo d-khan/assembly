@@ -32,11 +32,14 @@ Encrypt and decrypt using an XOR logical operator.
 The output should be saved in a text file (output.txt). For example:
 
 ```
-Plain text: Hello
-Key: March
-Encrypted text: 5041e0f07
+Plain text: HELLO
+Key: world
+Encrypted text: ?*> +
 Decrypted text: Hello
 ```
+
+The plain text and key are __case sensitive__. The encrypted text should display the result in printable ASCII characters. If you notice that there is a nonprintable character right after '>', which is a space. The XOR of 'L' and 'l' comes out to be 32 in decimal which corresponds to a space in ASCII.
+
 
 ## Task 2 (Functions and Recursions)
 ### Task 2 objective
