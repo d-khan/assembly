@@ -28,7 +28,7 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 <img src="https://github.com/d-khan/java/blob/main/Course%20homepage.png" alt="drawing" width="600"/>
 
 ## 4. Review the Course Syllabus
-Review the course [Course Syllabus](https://github.com/d-khan/java/blob/main/Syllabus-Fall2024.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
+Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. How will my class be conducted?
 **Partially online:** Some required class time (in-person theory, labs, hands-on assessments, and tests) will be conducted on campus. The remainder of the class will be online. Attending in-person classes and labs is mandatory to avoid dropping or withdrawing from the course.
