@@ -62,7 +62,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |6  |23 Sep  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 28 Sep |
 |7  |30 Sep  |Logical instructions | Apply logical instructions using Assembly | 5 Oct |
 |   |        |__Quiz 2 on Mon 30 Sep__| |
-|8  |18 Mar   |__Hands-on exam Wed 9 Oct at 11:20 am__|
+|8  |7 Oct   |__Hands-on exam Wed 9 Oct at 11:20 am__|
 |9  |14 Oct   |Condition instructions| Apply conditional instructions using Assembly |19 Oct|
 |10 |21 Oct  |Loops and Arrays | Apply loops and arrays using Assembly | 26 Oct |
 |11 |28 Oct  |Procedures | Use procedures to optimize Assembly code | 2 Nov|
