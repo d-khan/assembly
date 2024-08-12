@@ -1,4 +1,4 @@
-# The course will be available in Canvas on Monday, Aug 19, 2024 (12:00 am PST)
+# <div align="center"> The course will be available in Canvas on Monday, Aug 19, 2024 (12:00 am PST) </div> 
 **Please join the live class on Zoom (https://sdccd-edu.zoom.us/j/84453441374); OR in-person at Miramar College, M building, Room M-110.  
 When: Monday, Aug 19, 2024, at 11:00am PST.  
 The class runs every Monday and Wednesday.**
@@ -36,6 +36,6 @@ Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main
 **HyFlex:** Students can join the scheduled class session live online or on campus based on student preference. Please note that in-person class attendance or live online attendance is mandatory to avoid dropping or withdrawing from the course.
 
 ### <div align="center">Bring a laptop if you are attending an in-person class at the college.</div> 
-Bring a laptop if you are attending an in-person class at the college.
+
 ___
 **End of message**
