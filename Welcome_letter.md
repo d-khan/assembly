@@ -31,6 +31,6 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. How will my class be conducted?
-**HyFlex:** Students can join the scheduled class session online live or on campus based on student preference. The rest of the classwork is conducted online. (HyFlex is a blend of hybrid and flexible instruction)  Attending in-person classes and labs is mandatory to avoid dropping or withdrawing from the course.
+**HyFlex:** Students can join the scheduled class session online live or on campus based on student preference. The rest of the classwork is conducted online. (HyFlex is a blend of hybrid and flexible instruction). Please note that in-person class attendance or synchronous online live attendance is mandatory to avoid dropping or withdrawing from the course.
 ___
 **End of message**
