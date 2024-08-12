@@ -100,9 +100,9 @@ I would like you to follow my notes and the resources provided on the course sit
 |:-|:-|
 |Weekly lab assignments|20|
 |Quizzes |10|
-|Mid term|30|
-|Project|10|
-|Final exam|30|
+|Hands-on exam|30|
+|Project|20|
+|Final exam|20|
 
 ## Late/due work
 
