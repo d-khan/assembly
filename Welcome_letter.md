@@ -1,12 +1,13 @@
-# <div align="center"> The course will be available in Canvas on Monday, Aug 19, 2024 (12:00 am PST) </div> 
-> **Please join the live class on Zoom (https://sdccd-edu.zoom.us/j/84453441374); OR in-person at Miramar College, M building, Room M-110.  
-> When: Monday, Aug 19, 2024, at 11:00am PST.  
-> The class runs every Monday and Wednesday.**
+
 
 ## Welcome to the CISC 211 Computer Organization and Assembly Language course
 
 Hi, and welcome to CISC 211 Computer Organization and Assembly Language class. Thanks for enrolling. I am looking forward to going through the course with you. My name is Dr Danish Khan, and you can contact me via **dkhan@sdccd.edu**  
 
+# <div align="center"> The course will be available in Canvas on Monday, Aug 19, 2024 (12:00 am PST) </div> 
+> **Please join the live class on Zoom (https://sdccd-edu.zoom.us/j/84453441374); OR in-person at Miramar College, M building, Room M-110.  
+> When: Monday, Aug 19, 2024, at 11:00am PST.  
+> The class runs every Monday and Wednesday.**
 ## 1. The first thing to do - setup SDCCD email address
 [Setup your student email and Microsoft 365](https://www.sdccd.edu/students/student-email.aspx)
 
