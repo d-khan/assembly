@@ -85,7 +85,7 @@ ISBN-13: 9781718500099
 I would like you to follow my notes and the resources provided on the course site on Canvas.
 
 ## Software and hardware resources
-**A laptop is needed if you are attending an in-person class**
+###A laptop is needed if you are attending an in-person class###
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
 
