@@ -35,6 +35,7 @@ Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main
 ## 5. How will my class be conducted?
 **HyFlex:** Students can join the scheduled class session live online or on campus based on student preference. Please note that in-person class attendance or live online attendance is mandatory to avoid dropping or withdrawing from the course.
 
-### Bring a laptop if you are attending an in-person class at the college.
+<div align="center">Bring a laptop if you are attending an in-person class at the college.</div>
+Bring a laptop if you are attending an in-person class at the college.
 ___
 **End of message**
