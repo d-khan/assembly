@@ -39,4 +39,4 @@ Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main
 ### <div align="center">Bring a laptop if you are attending an in-person class at the college!</div> 
 
 ___
-**<div align="center">End of message**</div> 
+**<div align="center">The End...**</div> 
