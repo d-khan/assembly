@@ -109,7 +109,7 @@ I would like you to follow my notes and the resources provided on the course sit
 Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. The late work is deducted 25% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
 
 ## Attendance/Absences
-
+**Please note that in-person class attendance is mandatory to avoid dropping or withdrawing from the course**.
 -  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
 -  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
 - __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
