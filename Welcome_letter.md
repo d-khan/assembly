@@ -18,7 +18,7 @@ Call us at 619-388-1140
 Use [Canvas login help](https://www.sdccd.edu/about/departments-and-offices/instructional-services-division/online-learning-pathways-1/students/students%20login.aspx) to log on to Canvas.
 On the course start date, you should be able to see the course on the Canvas Dashboard (if the Dashboard is set up as Card View).
 
-<img src="https://github.com/d-khan/java/blob/main/Java%20canvas%20logo.png" alt="Course Logo" width="200"/>
+<img src="https://github.com/d-khan/assembly/blob/main/Assembly%20canvas%20logo.png" alt="Course Logo" width="200"/>
 
 > **Note:** If you do not see the course on Canvas, you are either not enrolled or enrolled recently, but the course will appear later on Canvas.
 
