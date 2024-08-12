@@ -76,7 +76,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |   |        |__Quiz 4 on Mon 11 Nov__| |
 |14 |18 Nov  |Project-2| |
 |||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
-|15 |2 Dec   |Revision and project work submission | | 7 Dec |
+|15 |2 Dec   |Revision and __Project-2__ submission | | 7 Dec |
 |16 |9 Dec  |__IN PERSON hands-on exam Mon 9 Dec at 11:20 am__
 
 ## Textbook
