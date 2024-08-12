@@ -25,7 +25,7 @@ On the course start date, you should be able to see the course on the Canvas Das
 ## 3. Where do I go when I am on the course site on Canvas?
 Select the **horizontal lines next to the course name -> Home -> Welcome to the CISC 191 course!** The video explains the course in detail. Please take a look at the image below.
 
-<img src="https://github.com/d-khan/java/blob/main/Course%20homepage.png" alt="drawing" width="600"/>
+<img src="https://github.com/d-khan/assembly/blob/main/Course%20homepage.png" alt="drawing" width="600"/>
 
 ## 4. Review the Course Syllabus
 Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
