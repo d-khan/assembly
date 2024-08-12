@@ -62,7 +62,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |6  |23 Sep  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 28 Sep |
 |7  |30 Sep  |Logical instructions | Apply logical instructions using Assembly | 5 Oct |
 |   |        |__Quiz 2 on Mon 30 Sep__| |
-|8  |7 Oct   |__Hands-on exam Wed 9 Oct at 11:20 am__|
+|8  |7 Oct   |__Mid term exam Wed 9 Oct at 11:20 am__|
 |9  |14 Oct   |Condition instructions| Apply conditional instructions using Assembly |19 Oct|
 |10 |21 Oct  |Loops and Arrays | Apply loops and arrays using Assembly | 26 Oct |
 |11 |28 Oct  |Procedures | Use procedures to optimize Assembly code | 2 Nov|
@@ -73,7 +73,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |14 |18 Nov  |Project work| |
 |||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
 |15 |2 Dec   |Revision and project work submission | | 7 Dec |
-|16 |9 Dec  |__Final exam on Mon 9 Dec at 11:20 am__
+|16 |9 Dec  |__IN PERSON hands-on exam Mon 9 Dec at 11:20 am__
 
 ## Textbook  
 The following textbook is used for this course:
@@ -100,9 +100,9 @@ I would like you to follow my notes and the resources provided on the course sit
 |:-|:-|
 |Weekly lab assignments|20|
 |Quizzes |10|
-|Hands-on exam|30|
+|Mid term exam |20|
 |Project|20|
-|Final exam|20|
+|Hands-on exam|30|
 
 ## Late/due work
 
