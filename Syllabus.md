@@ -15,9 +15,8 @@ This course is an introduction to the organization of modern digital computers a
 |   Year                        |   Fall 2024|
 |   Class ID                    |   74015|
 |   Section                     |   3005|
-|   Location (in-person)        |   Miramar College, M building, Room M-110|
-|   Live (synchronous online)   |   Mon & Wed 11:10 am – 12:35 pm, https://sdccd-edu.zoom.us/j/84453441374 |
-|   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm|
+|   Live (synchronous online)   |   Mon & Wed 11:10 am – 12:35 pm; https://sdccd-edu.zoom.us/j/84453441374 |
+|   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm;  Miramar College, M building, Room M-110|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
