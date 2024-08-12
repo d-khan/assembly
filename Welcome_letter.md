@@ -1,5 +1,6 @@
-# The course start date is Monday, Aug 19, 2024 (12:00 am PST)
-**Please join the live class on Zoom (https://sdccd-edu.zoom.us/j/84453441374); or in person in Miramar College, M building, Room M-110**
+# The course will be available on Canvas on Monday, Aug 19, 2024 (12:00 am PST)
+**Please join the live class on Zoom (https://sdccd-edu.zoom.us/j/84453441374);   
+or in person in Miramar College, M building, Room M-110, on Monday, Aug 19, 2024 at 11:00am PST**
 
 ## Welcome to the CISC 211 Computer Organization and Assembly Language course
 
