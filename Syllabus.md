@@ -12,16 +12,17 @@ This course is an introduction to the organization of modern digital computers a
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
-|   Year                        |   Spring 2024|
-|   Class ID                    |   54099|
-|   Section                     |   3001|
-|   Location                    |   Miramar College, M building, Room M-103|
-|   In-person class schedule    |   Mon & Wed 9:35 am – 12:40 pm|
+|   Year                        |   Fall 2024|
+|   Class ID                    |   74015|
+|   Section                     |   3005|
+|   Location                    |   Miramar College, M building, Room M-110|
+|   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Jan 29 – May 25 (16 weeks)|
+|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon, Tue, Wed & Thu 12:35-1:00 pm (Room M-103)|
-|                               |   Mon & Wed 8:30 - 9:30 am in Zoom (Meeting ID: 835 8008 1648)|
+|   Office hours                |   Mon & Wed 12:35 - 1:35 pm (Room M-110)|   
+|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
+|                               |   Mon 8:00 - 9:00 am in Zoom (Meeting ID: 835 8008 1648)|
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 
@@ -29,18 +30,19 @@ This course is an introduction to the organization of modern digital computers a
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|29 Jan                 |   Spring 2024 16-Week Session Begins |
-|9 Feb                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|19 Aug                 |   Fall 2024 16-Week Session Begins |
+|30 Aug                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|12 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
-|16-19 Feb              |   __President's Weekend (CAMPUS CLOSED)__ |
-|25-29 Mar              |   __Spring Break__
-|29 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
-|12 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|25 May                 |   Session end|
-|27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
-|31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
+|2 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
+|3 Sep                  |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|25 Oct                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|11 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
+|25 Nov - 1 Dec         |   __Thanksgiving (NO CLASSES)__ |
+|16 Dec                 |   __Session end__|
+|3 Jan 2025             |   __Grades:__ Deadline for instructors to submit final grades|
+
+Please visit the [district website](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
 
 ## Instructor communication policy
 
@@ -52,26 +54,26 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |29 Jan  |Data representation | Encryption/decryption using logical gates | 3 Feb |
-|2  |5 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 10 Feb |
-|3  |12 Feb   |Memory organization | Understanding Cache memory | 17 Feb |
-|4-5|19 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 2 Mar |
-|   |        |__Quiz 1 on Wed 21 Feb__| |
-|6  |4 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 9 Mar |
-|7  |11 Mar   |Logical instructions | Apply logical instructions using Assembly | 16 Mar |
-|   |        |__Quiz 2 on Mon 11 Mar__| |
-|8  |18 Mar   |__Midterm on Mon 18 Mar at 9:40 am__|
-|||__Spring break (25 - 29 Mar) - No classes__|
-|9  |1 Apr  |Condition instructions| Apply conditional instructions using Assembly |6 Apr|
-|10 |8 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 13 Apr|
-|11 |15 Apr  |Procedures | Use procedures to optimize Assembly code | 20 Apr|
-|   |        |__Quiz 3 on Mon 15 Apr__| |
-|12 |22 Apr  |Functions | Use functions to optimize Assembly code | 27 Apr |
-|13 |29 Apr  |File management | Perform file read and write operations | 4 May |
-|   |        |__Quiz 4 on Mon 29 Apr__| |
-|14 |6 May  |Project work| |
-|15 |13 May   |Revision and project work submission | | 18 May |
-|16 |20 May  |__Final exam on Mon 20 May at 9:40 am__
+|1  |19 Aug |Data representation | Encryption/decryption using logical gates | 24 Aug |
+|2  |26 Aug  |Boolean Algebra | Simplify equations using Boolean Algebra| 31 Aug |
+|3  |2 Sep |Memory organization | Understanding Cache memory | 7 Sep |
+|4-5|9 Sep  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 21 Sep |
+|   |        |__Quiz 1 on Mon 16 Sep__| |
+|6  |23 Sep  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 28 Sep |
+|7  |30 Sep  |Logical instructions | Apply logical instructions using Assembly | 5 Oct |
+|   |        |__Quiz 2 on Mon 30 Sep__| |
+|8  |18 Mar   |__Hands-on exam Wed 9 Oct at 11:20 am__|
+|9  |14 Oct   |Condition instructions| Apply conditional instructions using Assembly |19 Oct|
+|10 |21 Oct  |Loops and Arrays | Apply loops and arrays using Assembly | 26 Oct |
+|11 |28 Oct  |Procedures | Use procedures to optimize Assembly code | 2 Nov|
+|   |        |__Quiz 3 on Mon 28 Oct__| |
+|12 |4 Nov   |Functions | Use functions to optimize Assembly code | 9 Nov |
+|13 |11 Nov  |File management | Perform file read and write operations | 16 Nov |
+|   |        |__Quiz 4 on Mon 11 Nov__| |
+|14 |18 Nov  |Project work| |
+|||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
+|15 |2 Dec   |Revision and project work submission | | 7 Dec |
+|16 |9 Dec  |__Final exam on Mon 9 Dec at 11:20 am__
 
 ## Textbook  
 The following textbook is used for this course:
@@ -149,4 +151,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Jan 2024
+Last updated on Aug 2024
