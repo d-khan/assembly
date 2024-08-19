@@ -86,6 +86,7 @@ I would like you to follow my notes and the resources provided on the course sit
 
 ## Software and hardware resources
 **A laptop is needed if you are attending an in-person class**
+- Access to Juypterlab (https://sdccd-jupyterhub.nrp-nautilus.io/)
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
 
