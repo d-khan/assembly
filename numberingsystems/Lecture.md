@@ -24,7 +24,7 @@
 
 - You can easily convert from binary to decimal by computing the value of 2 raised to the power of its position and then multiplying that by the value of the bit in that position.
 
-$10010101_{2}$ = $1*{2^7}$ + 0*2^6 + 0*2^5 + 1*2^4 + 0*2^3 + 1*2^2 + 0*2^1 + 1*2^0$
+$10010101_{2}$ = $1*{2^7} + 0*{2^6} + 0*2^5 + 1*2^4 + 0*2^3 + 1*2^2 + 0*2^1 + 1*2^0$
 
 $128+16+4+1$
 
