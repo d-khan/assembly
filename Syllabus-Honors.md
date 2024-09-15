@@ -130,9 +130,9 @@ Please submit your coursework by the due date. The assignment deadlines are post
 
 ## Accommodating Students with Disabilities
 
-Ensuring the accessibility of this course to students with disabilities is important to me. I have made every effort to make this course accessible; however, if you encounter a problem accessing anything in the course, please contact me immediately. Students who have academic accommodation letters should send them to me as soon as possible so that I am able to provide the accommodation in a timely manner. Students with disabilities who are requesting accommodation for the first time should email me and should contact the Disability Support Programs and Services (DSPS) office to initiate the accommodation request process.
+Students with disabilities who may need academic accommodations should contact me as soon as possible.  You and I will work with the Disability Support Programs and Services (DSPS) department to identify your appropriate academic accommodations for this course. 
 
-> DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit the DSPS website at www.sdmiramar.edu/dsps.
+> DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit their website at www.sdmiramar.edu/dsps
 
 ## Undocumented & Immigrant Student Services
 
