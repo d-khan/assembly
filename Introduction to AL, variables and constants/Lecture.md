@@ -233,7 +233,7 @@ real_number2	DQ	123.456
 
 Please note that −
 
-- Each byte of character is stored as its ASCII value in hexadecimal.
+- Each byte of character is stored in hexadecimal.
 - Each decimal value is automatically converted to its 16-bit binary equivalent and stored as a hexadecimal number.
 - Processor uses the little-endian byte ordering.
 - Negative numbers are converted to its 2's complement representation.
