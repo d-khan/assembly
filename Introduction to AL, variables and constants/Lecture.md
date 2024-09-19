@@ -88,8 +88,6 @@ section.text
 _start:
 ```
 
-![img](https://lh5.googleusercontent.com/WiBQDC5jj7kJ4Sa05crmTZ17ZsXGFcrDx_jb9D7vS7WBXgBomP0rsVgbDjK-Lfdin1MvIDsX-eL9Uhp6NwfRGUb5R0RuF3mcVZMGHzdFkwnwNjfuZnctPs-bOgVTXWputRgyUNHxz_IR4B9BzkR7Z6s)
-
 Assembly language comment begins with a semicolon (;). It may contain any printable character, including blank. It can appear on a line by itself, like –
 
 ```assembly
