@@ -16,6 +16,7 @@ Learn to perform arithmetic instructions in Assembly Language.
 ## Task
 
 The variables on the right-hand side of the equations are initialized variables. The variable on the left-hand side is not initialized. Perform the following arithmetic instructions.
+__Use separate files for each equation__
 
 1. $result=-var1*10$
 2. $result = var1+var2+var3+var4$
