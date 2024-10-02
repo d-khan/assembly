@@ -35,7 +35,7 @@ stepi
 
 ## What to submit?
 
-1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. However, you can use any application of your choice. (1 mark)
+1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. Either use an online flowchart (as mentioned) or handwritten. No other forms are accepted. (1 mark)
 2. What were your challenges in performing the lab (from design to the implementation phases)? (1 mark)
 3. Working and error-free code. (8 marks)
 
