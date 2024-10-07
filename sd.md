@@ -1,11 +1,9 @@
-# Calculate population standard deviation using assembly language
-
-__This is a group activity (2 members per group)__
+# Calculate the mean of the following dataset using assembly language
 
 ## Formulas
+$Mean = Sum of students / number of students$
 
-### Standard deviation
-![Standard deviation](https://github.com/d-khan/assembly/blob/main/SD.PNG?raw=true)
+
 
 |Name|score|
 |----|-------|
@@ -15,9 +13,8 @@ __This is a group activity (2 members per group)__
 |Student 4|40|
 |Student 5|65|
 
-## Verification
-(Use this link to verify the answer)[https://www.calculator.net/standard-deviation-calculator.html]  
-Selection population
+## What to show?
+Display the result on the terminal. You might need to verify the result using gdb
 
 # Convert the following
 - Convert 575 decimal into binary and hexadecimal
