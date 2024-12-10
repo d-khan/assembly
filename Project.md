@@ -7,7 +7,8 @@ Apply the topics learned in the course. Pick one task.
 - The tasks will only work if you run the code on a Linux platform using an Intel x86 platform. The online assembler will not work due to the lack of debugging features.
 - Knowledge of how to run assembly code using nasm assembler in Linux OS.
 
-> # Please note that use the registers which are taught in the class. Registers or instructions set used outside of the content will be graded as 0.
+> # Note
+>  Use the registers which are taught in the class. Registers or instructions set used outside of the content will be graded as 0.
 
 
 
