@@ -68,7 +68,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |9  |7 Apr   |Condition instructions| Apply conditional instructions using Assembly |13 Apr|
 |10 |14 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 20 Apr |
 |11 |21 Apr  |Procedures | Use procedures to optimize Assembly code | 27 Apr |
-|   |        |__Quiz 3 on Mon 28 Oct at 11:20 am__| |
+|   |        |__Quiz 3 on Wed 23 Apr available after the class__| |
 |12 |28 Apr   |Functions | Use functions to optimize Assembly code | 4 May |
 |13 |5 May  |File management | Perform file read and write operations | 11 May |
 |   |        |__Quiz 4 on Mon 11 Nov at 11:20 am__| |
