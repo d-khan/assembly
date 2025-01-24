@@ -129,7 +129,6 @@ Students with disabilities who may need academic accommodations should contact m
 
 > DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit their website at www.sdmiramar.edu/dsps
 
-
 ## Undocumented & Immigrant Student Services
 
 Undocumented and immigrant students are welcome in this class. As an educator, I strive to be an ally and provide a safe learning environment for you regardless of your immigration status. Your legal status should not be an obstacle to you in my classroom or to your educational success.
