@@ -12,17 +12,16 @@ This course is an introduction to the organization of modern digital computers a
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
-|   Year                        |   Fall 2024|
-|   Class ID                    |   74015|
-|   Section                     |   3005|
-|   Live (synchronous online)   |   Mon & Wed 11:10 am – 12:35 pm; https://sdccd-edu.zoom.us/j/84453441374 |
+|   Year                        |   Spring 2025|
+|   Class ID                    |   85748|
+|   Section                     |   3025|
+|   Live (synchronous online)   |   Mon & Wed 11:10 am – 12:35 pm; https://sdccd-edu.zoom.us/j/81008935206 |
 |   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm;  Miramar College, M building, Room M-110|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
+|   Duration                    |   Feb 3 – Jun 2 2025 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon & Wed 12:35 - 1:35 pm (Room M-110)|   
-|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
-|                               |   Mon 6:00 - 7:00 pm in Zoom (https://sdccd-edu.zoom.us/j/84358409903)|
+|   Office hours                |   Mon 9:00 am - 11:00 am in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
+|                               |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 
