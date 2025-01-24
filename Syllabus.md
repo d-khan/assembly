@@ -59,7 +59,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 16 Feb |
 |3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
 |4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
-|   |        |__Quiz 1 on Mon 16 Sep at 11:20 am__| |
+|   |        |__Quiz 1 on Wed 26 Feb at 11:20 am__| |
 |6  |10 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 16 Mar |
 |7  |17 Mar  |Logical instructions | Apply logical instructions using Assembly | 23 Mar |
 |   |        |__Quiz 2 on Mon 30 Sep at 11:20 am__| |
