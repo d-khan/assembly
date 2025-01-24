@@ -55,24 +55,24 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
 |1  |3 Feb |Data representation | Encryption/decryption using logical gates | 16 Feb |
-|2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 31 Aug |
-|3  |17 Feb  |Memory organization | Understanding Cache memory | 7 Sep |
-|4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 21 Sep |
+|2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 16 Feb |
+|3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
+|4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
 |   |        |__Quiz 1 on Mon 16 Sep at 11:20 am__| |
-|6  |10 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 28 Sep |
-|7  |17 Mar  |Logical instructions | Apply logical instructions using Assembly | 5 Oct |
+|6  |10 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 16 Mar |
+|7  |17 Mar  |Logical instructions | Apply logical instructions using Assembly | 23 Mar |
 |   |        |__Quiz 2 on Mon 30 Sep at 11:20 am__| |
-|8  |24 Mar   |__Mid term exam Wed 9 Oct at 11:20 am__|
+|8  |24 Mar   |__Mid term exam Wed 26 Mar at 11:20 am__|
 |||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr   |Condition instructions| Apply conditional instructions using Assembly |21 Oct|
-|10 |14 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 28 Oct |
-|11 |21 Apr  |Procedures | Use procedures to optimize Assembly code | 4 Nov|
+|9  |7 Apr   |Condition instructions| Apply conditional instructions using Assembly |13 Apr|
+|10 |14 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 20 Apr |
+|11 |21 Apr  |Procedures | Use procedures to optimize Assembly code | 27 Apr |
 |   |        |__Quiz 3 on Mon 28 Oct at 11:20 am__| |
-|12 |28 Apr   |Functions | Use functions to optimize Assembly code | 11 Nov |
-|13 |5 May  |File management | Perform file read and write operations | 18 Nov |
+|12 |28 Apr   |Functions | Use functions to optimize Assembly code | 4 May |
+|13 |5 May  |File management | Perform file read and write operations | 11 May |
 |   |        |__Quiz 4 on Mon 11 Nov at 11:20 am__| |
 |14 |12 May  |Project work| |
-|15 |19 May   |Revision and project work submission | | 8 Dec |
+|15 |19 May   |Revision and project work submission | | 25 May |
 |16 |26 May  |__IN PERSON hands-on exam Wed 28 May at 11:20 am__
 
 ## Textbook  
