@@ -71,7 +71,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |   |        |__Quiz 3 on Wed 23 Apr available after the class__| |
 |12 |28 Apr   |Functions | Use functions to optimize Assembly code | 4 May |
 |13 |5 May  |File management | Perform file read and write operations | 11 May |
-|   |        |__Quiz 4 on Mon 11 Nov at 11:20 am__| |
+|   |        |__Quiz 4 on Wed 7 May available after the class__| |
 |14 |12 May  |Project work| |
 |15 |19 May   |Revision and project work submission | | 25 May |
 |16 |26 May  |__IN PERSON hands-on exam Wed 28 May at 11:20 am__
