@@ -5,7 +5,7 @@
 
 ## Welcome to the CISC 211 Computer Organization and Assembly Language course
 
-Hi, and welcome to CISC 211 Computer Organization and Assembly Language class. Thanks for enrolling. I am looking forward to going through the course with you. My name is Dr Danish Khan, and you can contact me via **dkhan@sdccd.edu**  
+Welcome to the CISC 211 Computer Organization and Assembly Language class. Thank you for enrolling! I am looking forward to exploring the course with you. My name is Dr. Danish Khan, and you can contact me at **dkhan@sdccd.edu**  
 
 
 ## 1. The first thing to do - setup SDCCD email address
