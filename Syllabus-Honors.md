@@ -60,7 +60,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb |Data representation | Encryption/decryption using logical gates | 16 Feb |
+|1  |3 Feb |Data representation | Encryption/decryption using logical gates | 9 Feb |
 |2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 16 Feb |
 |3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
 |4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
