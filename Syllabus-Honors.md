@@ -26,8 +26,8 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Feb 3 – Jun 2 2025 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon 9:00 am - 11:00 am in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
-|                               |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
+|   Office hours                |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
+|                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## Important dates/deadline
