@@ -422,6 +422,8 @@ For example, to calculate the decimal number **−6** in binary:
 
 To verify that *1010* has a value of *−6*, add the place values together but *subtract* the sign from the final calculation. Because the first significant digit is the number sign, it must be subtracted to produce the correct result: $1010 = (1*−2^3) + (0*2^2) + (1*2^1) + (0*2^0) = 1*−8 + 0 + 1*2 + 0 = −6$
 
+[Review binary addition](https://github.com/d-khan/assembly/blob/main/numberingsystems/Adding%20binary%20numbers.pdf)
+
 # Bit shifts and rotates
 
 You need to know some connected topics before I start discussing bit shifts and rotates.
