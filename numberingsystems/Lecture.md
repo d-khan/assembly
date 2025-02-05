@@ -280,12 +280,12 @@ The **bitwise NOT**, or **bitwise complement**, is a unary operation that perfor
 
 ```
 NOT 	0111	(decimal 7)
-			1000	(decimal 8)
+        1000	(decimal 8)
 ```
 
 ```
 NOT		10101011	(decimal 171)
-			01010100	(decimal 84)
+                01010100	(decimal 84)
 ```
 
 If you perform bitwise NOT to any number, the result would be **two's complement - 1**, or $\bar x = -x -1$, where $\bar x$ is called the x bar, which represents the NOT operator.
@@ -296,7 +296,7 @@ A **bitwise AND** is a binary operation that takes two equal-length binary repre
 
 ```
 		0101 (decimal 5)
-AND	0011 (decimal 3)
+AND	        0011 (decimal 3)
 =		0001 (decimal 1)
 ```
 
@@ -304,7 +304,7 @@ The operation may be used to determine whether a particular bit is *set* (1) or 
 
 ```
 		0011 (decimal 3)
-AND	0010 (decimal 2)
+AND	        0010 (decimal 2)
 =		0010 (decimal 2)
 ```
 
@@ -316,7 +316,7 @@ For example, 0110 (decimal 6) can be considered a set of four flags, where the f
 
 ```
 		0110 (decimal 6)
-AND	1011 (decimal 11)
+AND	        1011 (decimal 11)
 =		0010 (decimal 2)
 ```
 
@@ -324,7 +324,7 @@ Because of this property, it becomes easy to check the parity of a binary number
 
 ```
 		0110 (decimal 6)
-AND	0001 (decimal 1)
+AND	        0001 (decimal 1)
 =		0000 (decimal 0)
 ```
 
@@ -332,7 +332,7 @@ Because 6 AND 1 is zero, 6 is divisible by two and, therefore, even.
 
 ```
 		0111 (decimal 7)
-AND 0001 (decimal 1)
+AND             0001 (decimal 1)
 =		0001 (decimal 1)
 ```
 
@@ -344,7 +344,7 @@ A bitwise OR is a binary operation that takes two bit patterns of equal length a
 
 ```
 		0101 (decimal 5)
-OR	0011 (decimal 3)
+OR	        0011 (decimal 3)
 =		0111 (decimal 7)
 ```
 
@@ -352,7 +352,7 @@ The bitwise OR may be used to set to 1 the selected bits of the register describ
 
 ```
 		0010 (decimal 2)
-OR	1000 (decimal 8)
+OR	        1000 (decimal 8)
 =		1010 (decimal 10)
 ```
 
@@ -362,7 +362,7 @@ A bitwise XOR is a binary operation that takes two-bit patterns of equal length 
 
 ```
 		0101 (decimal 5)
-XOR	0011 (decimal 3)
+XOR	        0011 (decimal 3)
 =		0110 (decimal 6)
 ```
 
@@ -370,7 +370,7 @@ The bitwise XOR may be used to invert selected bits in a register (also called t
 
 ```
 		0010 (decimal 2)
-XOR	1010 (decimal 10)
+XOR	        1010 (decimal 10)
 =		1000 (decimal 8)
 ```
 
