@@ -422,6 +422,8 @@ For example, to calculate the decimal number **−6** in binary:
 
 To verify that *1010* has a value of *−6*, add the place values together but *subtract* the sign from the final calculation. Because the first significant digit is the number sign, it must be subtracted to produce the correct result: $1010 = (1*−2^3) + (0*2^2) + (1*2^1) + (0*2^0) = 1*−8 + 0 + 1*2 + 0 = −6$
 
+$`2^3`$
+
 [Review binary addition](https://github.com/d-khan/assembly/blob/main/numberingsystems/Adding%20binary%20numbers.pdf)
 
 # Bit shifts and rotates
@@ -463,8 +465,8 @@ Every bit position has a weight. The following bits of decimal 149 are written v
 Using the above bit weights, the weight of the MSb is 128. If you add all the bit weights, which are 1s, the answer will be a decimal 149. Remember, it is an unsigned decimal number or simply 149. This assumes that you are using LSb 0-bit numbering, which means the LSB bit position starts with 0.
 
 ```
-										1  0  0  1  0  1  0  1
-bit positions
+
+bit positions		1  0  0  1  0  1  0  1
 LSb 0 numbering -> 	7  6  5  4  3  2  1  0
 MSb 0 numbering ->	0  1  2  3  4  5  6  7
 ```
