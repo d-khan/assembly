@@ -415,14 +415,13 @@ Two's complement is achieved by:
 
 For example, to calculate the decimal number **−6** in binary:
 
-- Step 1: *+6* in decimal is *0110* in binary; the leftmost significant bit (the first 0) is the sign. *+6* is not *110*, because *110* in binary is *−2* in decimal. $(1*-2^2)+(1*2^2)+(0*2^0)=-2$
+- Step 1: *+6* in decimal is *0110* in binary; the leftmost significant bit (the first 0) is the sign. *+6* is not *110*, because *110* in binary is *−2* in decimal. $`(1*-2^2)+(1*2^2)+(0*2^0)=-2`$
 
 - Step 2: flip all bits in *0110*, giving *1001*
 - Step 3: add the place value 1 to the flipped number *1001*, giving *1010*
 
 To verify that *1010* has a value of *−6*, add the place values together but *subtract* the sign from the final calculation. Because the first significant digit is the number sign, it must be subtracted to produce the correct result: $`1010 = (1*−2^3) + (0*2^2) + (1*2^1) + (0*2^0) = 1*−8 + 0 + 1*2 + 0 = −6 `$
 
-$2^3$
 
 [Review binary addition](https://github.com/d-khan/assembly/blob/main/numberingsystems/Adding%20binary%20numbers.pdf)
 
