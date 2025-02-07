@@ -8,7 +8,7 @@ The students enrolled in the Honors Contract are expected to do independent rese
 
 You can find more information about the Honors Contract [here](https://sdmiramar.edu/services/honors).
 
-## [Student learning outcomes](https://github.com/d-khan/sdccd/blob/main/README.md#student-learning-outcomes)
+## [Student learning outcomes](https://github.com/d-khan/sdccd/blob/main/slos.md)
 
 ## Course information
 
