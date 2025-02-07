@@ -86,9 +86,7 @@ I would like you to follow my notes and the resources provided on the course sit
 |Project-2|10|
 |Hands-on exam|30|
 
-## Late/due work
-
-Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. The late work is deducted 25% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
+## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
 
 ## Attendance/Absences
 **Please note that in-person class attendance or synchronous online live attendance is mandatory to avoid dropping or withdrawing from the course**.
