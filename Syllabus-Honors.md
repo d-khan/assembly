@@ -29,11 +29,7 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 
 ## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
 
-## Instructor communication policy
-
-Please use the Canvas Messaging System  
-
-If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message using the Canvas Messaging System. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
+## [Instructor communication policy](https://github.com/d-khan/sdccd/blob/main/communication.md)
 
 ## Course outline and schedule
 
