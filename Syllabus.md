@@ -3,10 +3,7 @@
 ## Course description
 This course is an introduction to the organization of modern digital computers and assembly language programming. Topics include language syntax, instruction set mnemonics, and segment, index, pointer, general purpose, and flag registers. A variety of memory addressing techniques are covered, as well as stack operations, particularly those associated with passing parameters to subroutine calls. Additional topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, linking, and printer and disk interfaces. This course is intended for students majoring in computer and information sciences.
 
-## Student learning outcomes
-- Apply algorithmic and mathematical reasoning to solve a wide range of computational problems.  
-- Analyze and evaluate alternative solutions to computing problems using a programming language.
-- Use current tools in computing practice such as Integrated Development Environments and Code Sharing platforms.
+## [Student learning outcomes](https://github.com/d-khan/sdccd/blob/main/slos.md)
 
 ## Course information
 
