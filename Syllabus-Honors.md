@@ -92,33 +92,14 @@ I would like you to follow my notes and the resources provided on the course sit
 
 ## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
 
-## Undocumented & Immigrant Student Services
+## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
 
-Undocumented and immigrant students are welcome in this class. As an educator, I strive to be an ally and provide a safe learning environment for you regardless of your immigration status. Your legal status should not be an obstacle to you in my classroom or to your educational success.
-The Miramar Dreamers Support Office provides programs and services to undocumented and immigrant students. The Dreamers staff can meet with you for one-on-one support sessions, connect you to financial aid and scholarship resources, provide information about how to earn money, and host weekly engagement activities. Every student who needs one gets a FREE immigration-related legal consultation with our partners at the Higher Education Legal Services, too!
+## [Cheating/Plagiarism](https://github.com/d-khan/sdccd/blob/main/cheating.md)
 
-> Visit the Dreamers Support Office in the Student Services Building, room K1-304 (third floor), or online at <https://sdmiramar.edu/services/dreamers>. Schedule an appointment at <https://bit.ly/dreamerappt>.
+## [Honest Academic Conduct](https://github.com/d-khan/sdccd/blob/main/honest-academic.md)
 
-## Cheating/Plagiarism
-Students are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3 Honest Academic Conduct, will receive a grade of zero on the assignment, quiz, or exam in question and may be referred for disciplinary action in accordance with Administrative Procedure 5520, Student Disciplinary Procedures.
-
-## Honest Academic Conduct
-
-Students are expected to adhere to the Honest Academic Conduct policy at all times. Students who violate the Honest Academic Conduct policy may be removed from class by the faculty for the class meeting in which the behavior occurred and the next class meeting.
-- For online classes: Student access to class is removed for one week (5 instructional days).
-
-No make-up work will be accepted during the removal.
-
-> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
-<https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>
-
-## Sustainability
-
-Miramar College is committed to sustainability in our classrooms and on campus. To minimize paper use, please consider whether a document can be shared digitally rather than printed. When a document must be printed, decrease margins to 0.8” and print on both sides of the paper.  
+## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
  
-You are encouraged to bring reusable drink containers to school (and fill them at the water dispensers located around campus). For single-use packaging, please use the recycle bins for plastics, paper, cans, and cardboard.  
- 
-Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
 Last updated on Jan 2025
