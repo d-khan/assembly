@@ -71,7 +71,7 @@ I would like you to follow my notes and the resources provided on the course sit
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/equipment_checkout>
 
-## [Grading scheme](https://github.com/d-khan/sdccd/edit/main/grading_scheme.md)
+## [Grading scheme](https://github.com/d-khan/sdccd/blob/main/grading_scheme.md)
 
 
 ## Course evaluation schemes
