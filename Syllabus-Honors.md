@@ -1,6 +1,11 @@
 # Syllabus (CISC-211 Computer Organization & Assembly Language) Honors Contract
 __This syllabus is for Honors Contract Students only__
 
+## Welcome to the course!
+My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+
+> ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
+
 ## Course description
 This course is an introduction to the organization of modern digital computers and assembly language programming. Topics include language syntax, instruction set mnemonics, and segment, index, pointer, general purpose, and flag registers. A variety of memory addressing techniques are covered, as well as stack operations, particularly those associated with passing parameters to subroutine calls. Additional topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, linking, and printer and disk interfaces. This course is intended for students majoring in computer and information sciences.
 
