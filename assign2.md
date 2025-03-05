@@ -1,5 +1,10 @@
-iqr fuqrbf iuqbefi qnofqf
-eqrgeqr
+# Heading 1
+## Heading 2
+
+__I am boldface__
+___I am italics___
+- I am bullet1
+- 
 
 ```assembly
 section .text
@@ -14,3 +19,4 @@ _start:
 segment .bss
         result resb 1			;uninitialized variable result
 ```
+
