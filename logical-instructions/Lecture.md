@@ -20,7 +20,7 @@ Let's take up another example. If you want to check whether a given number is od
 
 ### Example code
 
-The following code performs AND operation between 8 and 1. If the result is 0, then jump to `evnn` block, else continue. Experiment the code. **Change eax to odd number and see what happens.**
+The following code performs AND operation between 8 and 1. If the result is 0, then jump to `evnn` block, else continue. Experiment the code. **Change eax to an odd number and see what happens.**
 
 ``` assembly
 section .text
