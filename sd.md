@@ -1,7 +1,7 @@
 # Calculate the mean of the following dataset using assembly language
 
 ## Formulas
-$Mean = Sum of students / number of students$
+$Mean=Sum of students/number of students$
 
 
 
