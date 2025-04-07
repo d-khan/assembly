@@ -60,9 +60,6 @@ display_2:
 exit:
         mov eax, 1
         int 0x80
-```
-
-
 
 section .bss
         result resb 1
@@ -70,3 +67,4 @@ section .bss
         
 section .data
         space db 0xa
+```
