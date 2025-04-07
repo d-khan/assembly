@@ -43,7 +43,7 @@ display:
         mov ecx, result
         mov edx, 1
         int 0x80
-		ret
+	ret
 		        
 linefeed:
         mov eax, 4
