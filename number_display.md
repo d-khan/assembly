@@ -1,3 +1,5 @@
+**The code below is used to display three digit numbers on the console**
+
 ```assembly
 section .text
         global _start
