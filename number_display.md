@@ -5,7 +5,8 @@ section .text
         global _start
 
 _start:
-        mov eax, 100
+	; the number 100 will be printed on the terminal
+	mov eax, 100
         cmp eax, 9
         jg calculate
         call display_2
