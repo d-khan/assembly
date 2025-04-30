@@ -71,8 +71,3 @@ section .bss
 section .data
         space db 0xa
 ```
-
-
-```
-int a = 10
-```
