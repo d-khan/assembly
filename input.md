@@ -15,6 +15,6 @@ We will be using the system call sys_read to receive and process input from the 
 
 The arguments passed are as follows:
 
-EDX will be loaded with the maximum length (in bytes) of the space in memory.
-ECX will be loaded with the address of our variable created in the .bss section.
-EBX will be loaded with the file we want to read from – in this case STDIN.
+- EDX will be loaded with the maximum length (in bytes) of the space in memory.
+- ECX will be loaded with the address of our variable created in the .bss section.
+- EBX will be loaded with the file we want to read from – in this case STDIN.
