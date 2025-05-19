@@ -11,7 +11,6 @@ variableName4:      RESQ    1       ; reserve space for 1 double precision float
 variableName5:      REST    1       ; reserve space for 1 extended precision float
 ```
 
-Writing our program
 We will be using the system call sys_read to receive and process input from the user. This function is assigned OPCODE 3 in the Linux System Call Table. Just like sys_write this function also takes 3 arguments which will be loaded into EDX, ECX and EBX before requesting a software interrupt that will call the function.
 
 The arguments passed are as follows:
