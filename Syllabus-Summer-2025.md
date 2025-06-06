@@ -47,7 +47,7 @@ This course is an introduction to the organization of modern digital computers a
 |   |        |Functions | Use functions to optimize Assembly code | 20 Jul |
 |7  |21 Jul  |File management | Perform file read and write operations | 27 Jul |
 |   |        |__Quiz 2 on Fri 25 Jul at 11:00 am__| |
-|8-9|28 Jul  |Project work| 10 Aug |
+|8-9|28 Jul  |Project work| | 10 Aug |
 |10 |11 Aug  |__Final exam on Fri 15 Aug at 11:00 am__
 
 ## Textbook  
