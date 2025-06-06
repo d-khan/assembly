@@ -13,7 +13,7 @@ This course is an introduction to the organization of modern digital computers a
 
 ## Course information
                                            
-| - | - |
+| | |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
 |   Year                        |   Summer 2025|
@@ -33,26 +33,22 @@ This course is an introduction to the organization of modern digital computers a
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |9 June |Data representation | Encryption/decryption using logical gates | 15 Jun |
-|   |       |Boolean Algebra | Simplify equations using Boolean Algebra| 15 Jun |
-|3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
-|4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
-|   |        |__Quiz 1 on Wed 26 Feb available after the class__| |
-|6  |10 Mar  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 16 Mar |
-|7  |17 Mar  |Logical instructions | Apply logical instructions using Assembly | 23 Mar |
-|   |        |__Quiz 2 on Wed 19 Mar available after the class__| |
-|8  |24 Mar   |__Mid term exam Wed 26 Mar at 11:20 am__|
-|||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr   |Condition instructions| Apply conditional instructions using Assembly |13 Apr|
-|10 |14 Apr  |Loops and Arrays | Apply loops and arrays using Assembly | 20 Apr |
-|11 |21 Apr  |Procedures | Use procedures to optimize Assembly code | 27 Apr |
-|   |        |__Quiz 3 on Wed 23 Apr available after the class__| |
-|12 |28 Apr   |Functions | Use functions to optimize Assembly code | 4 May |
-|13 |5 May  |File management | Perform file read and write operations | 11 May |
-|   |        |__Quiz 4 on Wed 7 May available after the class__| |
-|14 |12 May  |Project work| |
-|15 |19 May   |Revision and project work submission | | 25 May |
-|16 |26 May  |__IN PERSON hands-on exam Wed 28 May at 11:20 am__
+|1  |9 Jun   |Data representation | Encryption/decryption using logical gates | 15 Jun |
+|   |        |Boolean Algebra | Simplify equations using Boolean Algebra| 15 Jun |
+|2  |16 Jun  |Memory organization | Understanding Cache memory | 22 Jun |
+|   |        |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 22 Jun |
+|   |        |__Quiz 1 on Fri 20 Jun at 11:00 am__| |
+|3  |23 Jun  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 29 Jun |
+|   |        |Logical instructions | Apply logical instructions using Assembly | 29 Jun |
+|4  |30 Jun  |__Mid term exam on Thu 3 Jul at 11:00 am__|
+|5  |        |Condition instructions| Apply conditional instructions using Assembly |13 Jul|
+|   |        |Loops and Arrays | Apply loops and arrays using Assembly | 13 Jul |
+|6  |14 Jul  |Procedures | Use procedures to optimize Assembly code | 20 Jul |
+|   |        |Functions | Use functions to optimize Assembly code | 20 Jul |
+|7  |21 Jul  |File management | Perform file read and write operations | 27 Jul |
+|   |        |__Quiz 2 on Fri 25 Jul at 11:00 am__| |
+|8-9|28 Jul  |Project work| 10 Aug |
+|10 |11 Aug  |__Final exam on Fri 15 Aug at 11:00 am__
 
 ## Textbook  
 The following textbook is used for this course:
@@ -79,7 +75,7 @@ I would like you to follow my notes and the resources provided on the course sit
 |Quizzes |10|
 |Mid term exam |20|
 |Project|20|
-|Hands-on exam|30|
+|Final exam|30|
 
 ## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
 
@@ -96,4 +92,4 @@ I would like you to follow my notes and the resources provided on the course sit
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
 
 ____
-Last updated on Jan 2025
+Last updated on Jun 2025
