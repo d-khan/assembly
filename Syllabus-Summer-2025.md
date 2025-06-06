@@ -41,7 +41,7 @@ This course is an introduction to the organization of modern digital computers a
 |3  |23 Jun  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 29 Jun |
 |   |        |Logical instructions | Apply logical instructions using Assembly | 29 Jun |
 |4  |30 Jun  |__Mid term exam on Thu 3 Jul at 11:00 am__|
-|5  |        |Condition instructions| Apply conditional instructions using Assembly |13 Jul|
+|5  |7 Jul   |Condition instructions| Apply conditional instructions using Assembly |13 Jul|
 |   |        |Loops and Arrays | Apply loops and arrays using Assembly | 13 Jul |
 |6  |14 Jul  |Procedures | Use procedures to optimize Assembly code | 20 Jul |
 |   |        |Functions | Use functions to optimize Assembly code | 20 Jul |
