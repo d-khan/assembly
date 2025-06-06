@@ -13,6 +13,7 @@ This course is an introduction to the organization of modern digital computers a
 
 ## Course information
                                            
+| - | - |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
 |   Year                        |   Summer 2025|
