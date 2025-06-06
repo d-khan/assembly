@@ -36,7 +36,7 @@ This course is an introduction to the organization of modern digital computers a
 |1  |9 Jun   |Data representation | Encryption/decryption using logical gates | 15 Jun |
 |   |        |Boolean Algebra | Simplify equations using Boolean Algebra| 15 Jun |
 |2  |16 Jun  |Memory organization | Understanding Cache memory | 22 Jun |
-|   |        |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 22 Jun |
+|   |        |Introduction to Assembly Language, variables and constants | Setting up programming environment and writing your first code | 22 Jun |
 |   |        |__Quiz 1 on Fri 20 Jun at 11:00 am__| |
 |3  |23 Jun  |Arithmetic instructions | Apply arithmetic instructions using Assembly | 29 Jun |
 |   |        |Logical instructions | Apply logical instructions using Assembly | 29 Jun |
