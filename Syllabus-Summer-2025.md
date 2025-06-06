@@ -12,8 +12,7 @@ This course is an introduction to the organization of modern digital computers a
 ## [Student learning outcomes](https://github.com/d-khan/sdccd/blob/main/slos.md)
 
 ## Course information
-
-|                               |                                           |
+                                           
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
 |   Year                        |   Summer 2025|
@@ -33,9 +32,8 @@ This course is an introduction to the organization of modern digital computers a
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |9 June |Data representation | Encryption/decryption using logical gates | 9 Feb |
-|   | |Data representation | Encryption/decryption using logical gates | 9 Feb |
-|2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 16 Feb |
+|1  |9 June |Data representation | Encryption/decryption using logical gates | 15 Jun |
+|   |       |Boolean Algebra | Simplify equations using Boolean Algebra| 15 Jun |
 |3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
 |4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
 |   |        |__Quiz 1 on Wed 26 Feb available after the class__| |
