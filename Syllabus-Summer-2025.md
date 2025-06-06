@@ -16,17 +16,14 @@ This course is an introduction to the organization of modern digital computers a
 |                               |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-211 Computer Organization & Assembly Language|
-|   Year                        |   Spring 2025|
-|   Class ID                    |   85748|
-|   Section                     |   3025|
-|   Live (synchronous online)   |   Mon & Wed 11:10 am – 12:35 pm; https://sdccd-edu.zoom.us/j/81008935206 |
-|   In-person class schedule    |   Mon & Wed 11:10 am – 12:35 pm;  Miramar College, M building, Room M-110|
+|   Year                        |   Summer 2025|
+|   Class ID                    |   90663|
+|   Section                     |   3002|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Feb 3 – Jun 2 2025 (16 weeks)|
+|   Duration                    |   June 9 – Jun 16 2025 (10 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
-|                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
-|   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
+|   Office hours                |   Please email me to setup an appointment
+|   Contact                     |   Email: dkhan@sdccd.edu|
 
 ## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
 
@@ -36,7 +33,8 @@ This course is an introduction to the organization of modern digital computers a
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb |Data representation | Encryption/decryption using logical gates | 9 Feb |
+|1  |9 June |Data representation | Encryption/decryption using logical gates | 9 Feb |
+|   | |Data representation | Encryption/decryption using logical gates | 9 Feb |
 |2  |10 Feb  |Boolean Algebra | Simplify equations using Boolean Algebra| 16 Feb |
 |3  |17 Feb  |Memory organization | Understanding Cache memory | 23 Feb |
 |4-5|24 Feb  |Introduction to AL, variables and constants | Setting up programming environment and writing your first code | 9 Mar |
