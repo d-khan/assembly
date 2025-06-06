@@ -25,7 +25,7 @@ This course is an introduction to the organization of modern digital computers a
 |   Office hours                |   Please email me to setup an appointment
 |   Contact                     |   Email: dkhan@sdccd.edu|
 
-## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
+## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline-Summer.md)
 
 ## [Instructor communication policy](https://github.com/d-khan/sdccd/blob/main/communication.md)
 
