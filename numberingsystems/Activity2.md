@@ -1,34 +1,23 @@
-# Activity - Encyption/decryption using XOR
+# Activity - Your name in disguise
 
 ## Objective
 
-Learn how to encrpyt/decrypt using a XOR logical operator.
+Encode your name in a codeword
 
 ## Prerequisites
 
-- Before doing the lab, please review the lecture.
+- Before doing the lab, please review the numbering system
 
 ## Task
 **Please note:** No need to write a code. Use paper and pencil and solve the following tasks.
 
-### Encrypting the message
-1. Select a secret "one English word" message. Keep it secret.
-2. Convert the message into binary form. Each alphabet has a corresponding ASCII representation. Find out the [equivalent ASCII representation](https://www.asciitable.com/) of each character in the message.
-3. Create a secret “one English word” key. For simplicity, use the same length of word key as the message. Then, repeat step two to convert the “secret key” into the binary form.
-4. Apply XOR bitwise operation between the message and the key. The output will be the encrypted message in binary form. 
-5. Convert the encrypted binary message into hexadecimal form for easy sharing.
-### Decrypting the message
-1. Use the "encrypted message" and the "secret key" and perform the bitwise XOR operation.
-> **Remember to convert the encrypted message and the key into the binary form before applying the bitwise XOR operation**
-2. Verify that the decrypted message is the same as the "plain text".
-3. What strategies you will use to perform a bitwise XOR operation when plaintext and key have different lengths?
+For this hands-on activity, you will be working for the Security Service Agency, ACME. On your first day, you are tasked with creating a codename for yourself. To do this, you need to convert your name into hexadecimal format and your birth year into binary format. Be sure to change your name to lowercase before converting it to hexadecimal. Use the course materials to help you with the calculations. **Please do not use any external electronic sources for this assignment.**
 
 ## What to submit?
 
 1. Draw a flowchart of your thought process. I found this [online flowchart website](http://www.draw.io/) very useful. However, you can use any application of your choice. (1 mark)
 2. What were your challenges in performing the lab (from design to the implementation phases)? (1 mark)
-3. Encryption (4 marks)
-4. Decryption (4 marks)
+3. Successfully coded your name (8 marks)
 
 ## How to submit it?
 
