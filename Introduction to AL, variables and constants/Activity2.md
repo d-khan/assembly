@@ -55,9 +55,8 @@ When you execute the code on the command line (terminal),  you will not see any 
 
 ## How to submit it?
 
-- Upload the work in Canvas and clearly define your responses.
-- Upload the code in __.txt__ format and include comments to describe the code.
-- Do not compress or zip your work.
+- Upload the work in Github and clearly define your responses.
+- Share the Github link
 
 ## Deadline
 
