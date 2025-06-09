@@ -26,9 +26,8 @@ Perform the following tasks:
 
 ## How to submit it?
 
-- Upload the work in Canvas and clearly define your responses.
-- Upload the code in __.txt__ format and include comments to describe the code.
-- __Do not compress or zip your work.__
+- Upload the work in Github and clearly define your responses.
+- Share the Github link.
 
 ## Deadline
 
@@ -41,4 +40,4 @@ The deadlines are posted on the Syllabus as well as on Canvas.
 
 ------
 
-Last updated: Apr 2023 by Dr. Danish Khan. 
+Last updated: June 2025
