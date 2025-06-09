@@ -1,6 +1,7 @@
 # <div align="center"> The course will be available in Canvas on Monday, Jun 9, 2025 (12:00 am PST) </div> 
 > **This is an asychronous 100% online class. There is no official in-person/online class scheduled for this course"**   
-> **To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20 to 25 hours each week to independent study. Your commitment to this schedule will significantly enhance your understanding and performance.** 
+> **To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20 to 25 hours each week to independent study.**  
+> **Your commitment to this schedule will significantly enhance your understanding and performance.** 
 
 ## Welcome to the CISC 211 Computer Organization and Assembly Language course
 
@@ -30,10 +31,10 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 <img src="https://github.com/d-khan/assembly/blob/main/Course%20homepage.png" alt="drawing" width="600"/>
 
 ## 4. Review the Course Syllabus
-Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
+Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main/Syllabus-Summer-2025.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. How will my class be conducted?
-**HyFlex:** Students can join the scheduled class session live online or on campus based on student preference. Please note that in-person class attendance or live online attendance is mandatory to avoid dropping or withdrawing from the course.
+**100% asynchronous online:** This is an asynchronous 100% online course. There is no official in-person/online class scheduled for this course. To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20 to 25 hours each week to independent study. Your commitment to this schedule will significantly enhance your understanding and performance.
 
 ### <div align="center">Bring a laptop if you are attending an in-person class at the college!</div> 
 
