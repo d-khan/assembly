@@ -25,6 +25,8 @@ Encrypt and decrypt using an XOR logical operator.
 - Create a secret “one English word” key. For simplicity, use the same length of the word key as the message.  For example, if the message is "Hello," select a key size equal to 5 characters, such as "March."
 
 - Apply XOR bitwise operation between the message and the key.
+  
+- Use character by character XOR operation and use loops.
 
 #### Decrypting a message
 
