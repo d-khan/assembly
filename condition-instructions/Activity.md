@@ -1,5 +1,3 @@
-
-
 # Activity - Conditional instructions
 
 ## Objective
@@ -42,7 +40,7 @@ stepi
 ## How to submit it?
 
 - Upload the work in Github and clearly define your responses.
-- Share the Github link
+- Share the Github link.
 
 ## Deadline
 
