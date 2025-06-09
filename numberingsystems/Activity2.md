@@ -6,7 +6,7 @@ Encode your name in a codeword
 
 ## Prerequisites
 
-- Before doing the lab, please review the numbering system
+Before doing the lab, please review the numbering system
 
 ## Task
 **Please note:** No need to write a code. Use paper and pencil and solve the following tasks.
