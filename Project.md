@@ -83,8 +83,8 @@ Use recursion to generate the same counter which you did above. [Check what is r
 
 ## How to submit it?
 
-- Upload the work in Canvas and clearly define your responses.
-- __Do not compress or zip your work.__
+- Upload the work in Github and clearly define your responses.
+- Share the Github link.
 
 ## Deadline
 
@@ -97,4 +97,4 @@ The deadlines are posted on the Syllabus as well as on Canvas.
 
 ------
 
-Last updated: May 2024 by Dr. Danish Khan. 
+Last updated: June 2025 
