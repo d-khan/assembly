@@ -1,6 +1,6 @@
 # <div align="center"> The course will be available in Canvas on Monday, Jun 9, 2025 (12:00 am PST) </div> 
 > **This is an asychronous 100% online class. There is no official in-person/online class scheduled for this course"**   
-> **To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20 to 25 hours each week to independent study.**  
+> **To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20-25 hours each week to independent study.**  
 > **Your commitment to this schedule will significantly enhance your understanding and performance.** 
 
 ## Welcome to the CISC 211 Computer Organization and Assembly Language course
