@@ -36,7 +36,5 @@ Review the course [Course Syllabus](https://github.com/d-khan/assembly/blob/main
 ## 5. How will my class be conducted?
 **100% asynchronous online:** There is no official in-person/online class scheduled for this course. To excel in this course, please make it a priority to log in to Canvas weekly and dedicate 20 to 25 hours each week to independent study. Your commitment to this schedule will significantly enhance your understanding and performance.
 
-### <div align="center">Bring a laptop if you are attending an in-person class at the college!</div> 
-
 ___
 **<div align="center">The End.**</div> 
